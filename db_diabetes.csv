@@ -1,0 +1,599 @@
+Tipo,marcadores_geneticos,autoanticuerpos,antecedentes_familiares,factores_ambientales,niveles_insulina,edad,imc,actividad_fisica,habitos_dieteticos,presion_sanguinea,niveles_colesterol,talla,niveles_glucosa,origen_etnico,factores_socioeconomicos,tabaquismo,consumo_alcohol,tolerancia_glucosa,sindrome_ovario_poliquistico,diabetes_gestacional,tipo_embarazo,aumento_peso_embarazo,salud_pancreatica,niveles_de_encimas_digestiva,analisis_orina,peso_nacimiento,sintomas_de_inicio_temprano
+Steroid-Induced Diabetes,Positive,Negative,No,Present,40,44,38,High,Healthy,124,201,50,168,Low Risk,Medium,Smoker,High,Normal,No,No,Normal,18,36,56,Ketones Present,2.629,No
+Neonatal Diabetes Mellitus (NDM),Positive,Negative,No,Present,13,1,17,High,Healthy,73,121,24,178,Low Risk,High,Non-Smoker,Moderate,Normal,Yes,No,Normal,8,26,28,Glucose Present,1.881,Yes
+Prediabetic,Positive,Positive,Yes,Present,27,36,24,High,Unhealthy,121,185,36,105,Low Risk,Medium,Smoker,High,Abnormal,Yes,No,Normal,15,56,55,Ketones Present,3.622,Yes
+Type 1 Diabetes,Negative,Positive,No,Present,8,7,16,Low,Unhealthy,100,151,29,121,Low Risk,High,Smoker,Moderate,Abnormal,No,Yes,Normal,12,49,60,Ketones Present,3.542,No
+Wolfram Syndrome,Negative,Negative,Yes,Present,17,10,17,High,Healthy,103,146,33,289,Low Risk,Low,Smoker,Moderate,Normal,No,Yes,Complications,2,10,24,Protein Present,1.77,No
+LADA,Positive,Negative,Yes,Present,17,41,26,Moderate,Healthy,127,208,32,142,Low Risk,Low,Non-Smoker,Low,Abnormal,No,No,Normal,11,40,52,Ketones Present,3.835,Yes
+Type 2 Diabetes,Negative,Negative,No,Absent,29,30,31,Moderate,Healthy,115,237,43,186,High Risk,High,Non-Smoker,Low,Normal,No,Yes,Normal,15,62,96,Ketones Present,4.426,No
+Wolcott-Rallison Syndrome,Positive,Negative,No,Absent,10,3,18,Low,Unhealthy,80,157,29,206,High Risk,Low,Smoker,Low,Normal,Yes,Yes,Normal,4,13,29,Ketones Present,1.644,Yes
+Secondary Diabetes,Negative,Positive,No,Absent,47,47,25,High,Healthy,138,185,40,160,Low Risk,High,Smoker,Low,Normal,No,No,Complications,30,91,74,Ketones Present,3.721,No
+Secondary Diabetes,Positive,Negative,Yes,Present,21,72,24,Low,Unhealthy,136,259,36,192,High Risk,High,Non-Smoker,Low,Abnormal,No,No,Normal,33,86,42,Protein Present,4.206,No
+Secondary Diabetes,Negative,Positive,No,Present,16,67,29,Low,Healthy,134,193,42,192,High Risk,Medium,Non-Smoker,Low,Abnormal,No,No,Normal,37,64,59,Glucose Present,3.965,No
+Type 1 Diabetes,Positive,Negative,No,Absent,8,29,23,Low,Unhealthy,91,195,33,114,High Risk,Low,Smoker,Moderate,Abnormal,Yes,No,Complications,24,67,60,Ketones Present,2.947,No
+Prediabetic,Positive,Negative,No,Absent,22,59,28,Low,Healthy,128,191,32,113,Low Risk,Medium,Smoker,Moderate,Normal,No,No,Normal,24,63,76,Normal,3.588,No
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,No,Present,9,0,19,Low,Unhealthy,71,126,20,175,Low Risk,Medium,Non-Smoker,Moderate,Normal,Yes,No,Complications,1,16,29,Glucose Present,2.202,No
+LADA,Negative,Negative,No,Absent,21,45,22,Moderate,Healthy,116,163,42,136,High Risk,High,Non-Smoker,High,Abnormal,No,Yes,Normal,6,76,43,Protein Present,2.984,No
+Steroid-Induced Diabetes,Positive,Negative,Yes,Present,38,53,37,Low,Unhealthy,128,260,41,200,High Risk,Low,Non-Smoker,Low,Abnormal,No,No,Complications,16,75,53,Normal,4.239,No
+LADA,Negative,Negative,No,Absent,14,36,31,High,Unhealthy,106,153,37,132,Low Risk,High,Non-Smoker,Moderate,Normal,No,Yes,Complications,19,65,56,Protein Present,2.62,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Negative,No,Present,12,1,17,Moderate,Unhealthy,67,144,22,168,High Risk,High,Non-Smoker,Moderate,Normal,No,No,Normal,2,13,13,Ketones Present,1.523,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Negative,No,Present,30,60,32,Moderate,Healthy,149,239,48,190,High Risk,Medium,Smoker,High,Normal,No,Yes,Normal,28,38,41,Normal,4.335,No
+Type 1 Diabetes,Negative,Positive,Yes,Present,19,16,18,Low,Unhealthy,102,165,30,126,High Risk,Medium,Non-Smoker,High,Abnormal,Yes,No,Normal,24,41,44,Ketones Present,2.94,No
+Gestational Diabetes,Positive,Negative,Yes,Present,10,35,33,Low,Healthy,123,179,30,93,High Risk,Low,Non-Smoker,High,Normal,No,Yes,Complications,26,76,51,Ketones Present,3.963,Yes
+Steroid-Induced Diabetes,Negative,Negative,No,Absent,42,44,25,Moderate,Healthy,121,289,43,167,Low Risk,Medium,Smoker,Low,Normal,No,No,Complications,19,42,68,Protein Present,2.766,No
+Wolcott-Rallison Syndrome,Positive,Negative,No,Present,13,14,19,Low,Healthy,87,164,26,234,High Risk,High,Non-Smoker,Moderate,Normal,Yes,No,Normal,1,25,18,Glucose Present,1.937,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Positive,No,Present,34,64,29,Moderate,Unhealthy,121,276,48,161,High Risk,High,Smoker,High,Normal,Yes,No,Normal,29,45,32,Ketones Present,3.094,No
+Wolfram Syndrome,Positive,Negative,Yes,Present,11,9,23,Low,Unhealthy,100,142,31,287,Low Risk,Medium,Smoker,High,Normal,No,Yes,Complications,2,37,13,Glucose Present,2.325,No
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,Yes,Absent,24,29,31,High,Unhealthy,125,157,28,170,High Risk,High,Smoker,Moderate,Normal,Yes,Yes,Normal,16,49,42,Ketones Present,3.684,No
+Secondary Diabetes,Positive,Negative,Yes,Absent,44,65,23,High,Healthy,140,255,47,198,Low Risk,Medium,Smoker,Moderate,Normal,Yes,Yes,Normal,30,26,50,Normal,3.769,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,Yes,Present,20,34,19,Moderate,Unhealthy,90,170,35,146,Low Risk,High,Smoker,Moderate,Normal,Yes,No,Normal,11,30,43,Normal,2.827,No
+Type 2 Diabetes,Positive,Negative,No,Present,15,51,39,Moderate,Healthy,148,277,47,156,Low Risk,Low,Non-Smoker,Low,Normal,No,No,Normal,17,52,49,Protein Present,2.587,Yes
+Wolcott-Rallison Syndrome,Negative,Negative,Yes,Present,13,11,23,High,Unhealthy,102,102,30,178,High Risk,Medium,Smoker,Moderate,Abnormal,Yes,No,Normal,0,16,28,Normal,2.786,Yes
+Steroid-Induced Diabetes,Negative,Negative,Yes,Absent,44,51,34,High,Healthy,122,239,46,137,Low Risk,Medium,Non-Smoker,Low,Normal,No,Yes,Normal,23,66,59,Protein Present,4.068,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Negative,No,Present,11,0,18,Moderate,Unhealthy,79,148,29,131,Low Risk,High,Non-Smoker,Moderate,Normal,No,Yes,Complications,7,28,25,Glucose Present,2.889,No
+Type 2 Diabetes,Positive,Positive,No,Present,20,56,31,Moderate,Healthy,122,252,46,198,High Risk,Low,Non-Smoker,Moderate,Abnormal,No,Yes,Complications,26,65,49,Glucose Present,3.079,Yes
+Gestational Diabetes,Negative,Positive,Yes,Absent,18,37,33,High,Healthy,103,216,34,129,High Risk,High,Non-Smoker,Moderate,Abnormal,No,Yes,Normal,14,59,59,Normal,3.798,No
+Wolfram Syndrome,Positive,Negative,No,Present,11,10,15,Low,Unhealthy,96,162,31,255,High Risk,High,Non-Smoker,High,Abnormal,No,Yes,Normal,1,12,27,Normal,1.596,No
+LADA,Positive,Negative,No,Absent,10,45,25,High,Healthy,122,200,41,108,High Risk,High,Smoker,Low,Abnormal,No,Yes,Complications,9,42,35,Protein Present,3.682,Yes
+Type 1 Diabetes,Positive,Negative,Yes,Present,6,22,22,High,Unhealthy,95,159,33,132,Low Risk,Medium,Non-Smoker,High,Abnormal,No,No,Normal,7,46,68,Ketones Present,2.575,No
+Gestational Diabetes,Negative,Positive,Yes,Absent,28,34,26,Low,Healthy,102,201,40,132,Low Risk,High,Smoker,Low,Abnormal,No,Yes,Complications,28,78,56,Ketones Present,2.855,Yes
+Type 2 Diabetes,Positive,Positive,Yes,Absent,44,70,34,Low,Unhealthy,125,221,36,181,High Risk,Medium,Non-Smoker,High,Normal,No,No,Normal,26,49,83,Protein Present,2.633,No
+Gestational Diabetes,Negative,Negative,Yes,Present,15,33,28,High,Healthy,112,232,34,106,High Risk,Low,Non-Smoker,Moderate,Abnormal,No,Yes,Complications,15,78,63,Normal,2.566,Yes
+Secondary Diabetes,Negative,Negative,Yes,Present,29,50,28,Low,Unhealthy,120,270,40,248,Low Risk,Medium,Smoker,High,Normal,Yes,Yes,Normal,31,75,42,Glucose Present,3.246,No
+Type 2 Diabetes,Negative,Negative,No,Absent,11,62,28,Moderate,Healthy,135,292,49,166,High Risk,Low,Smoker,Moderate,Normal,No,Yes,Complications,35,56,71,Protein Present,3.521,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Negative,No,Present,48,40,25,Moderate,Healthy,142,234,34,172,High Risk,High,Smoker,Low,Abnormal,Yes,No,Complications,26,69,62,Glucose Present,3.284,Yes
+Type 1 Diabetes,Positive,Positive,No,Absent,13,28,16,Moderate,Healthy,102,198,33,103,High Risk,High,Non-Smoker,Low,Normal,Yes,Yes,Complications,6,30,63,Ketones Present,2.846,Yes
+Gestational Diabetes,Negative,Positive,Yes,Present,24,30,31,Low,Healthy,100,234,38,133,Low Risk,High,Non-Smoker,Moderate,Normal,Yes,No,Complications,17,71,49,Normal,2.59,No
+Prediabetic,Negative,Positive,No,Absent,28,35,25,High,Healthy,121,232,36,115,Low Risk,High,Non-Smoker,Moderate,Normal,No,No,Complications,20,72,49,Ketones Present,3.126,Yes
+Wolfram Syndrome,Negative,Negative,Yes,Present,12,10,15,High,Unhealthy,103,157,34,245,High Risk,Medium,Non-Smoker,High,Normal,Yes,No,Normal,3,20,14,Normal,2.387,No
+Type 1 Diabetes,Positive,Negative,Yes,Absent,16,12,22,High,Healthy,106,153,29,106,Low Risk,High,Smoker,High,Abnormal,No,No,Normal,8,31,44,Ketones Present,3.339,No
+Gestational Diabetes,Positive,Positive,No,Present,16,38,21,High,Healthy,101,197,41,127,High Risk,High,Non-Smoker,Low,Normal,No,Yes,Normal,12,34,38,Ketones Present,4.008,No
+Type 1 Diabetes,Negative,Negative,Yes,Present,5,19,23,Low,Unhealthy,102,176,30,111,High Risk,Low,Smoker,Moderate,Abnormal,Yes,No,Normal,13,55,43,Normal,3.677,Yes
+Type 2 Diabetes,Negative,Positive,No,Present,19,67,33,High,Unhealthy,111,264,47,150,Low Risk,Medium,Non-Smoker,High,Normal,Yes,No,Complications,28,55,88,Glucose Present,3.132,No
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,No,Absent,27,34,29,Low,Unhealthy,92,160,29,129,Low Risk,High,Smoker,Low,Normal,No,Yes,Normal,14,51,75,Glucose Present,3.74,No
+Prediabetic,Positive,Positive,Yes,Absent,22,39,27,High,Unhealthy,115,201,36,112,Low Risk,High,Non-Smoker,Moderate,Normal,No,Yes,Complications,25,43,40,Normal,2.739,Yes
+Secondary Diabetes,Positive,Negative,Yes,Absent,46,41,26,High,Healthy,133,190,38,223,Low Risk,Medium,Smoker,Moderate,Abnormal,Yes,Yes,Complications,27,56,62,Ketones Present,3.042,No
+Wolcott-Rallison Syndrome,Positive,Positive,Yes,Absent,9,3,22,Low,Healthy,100,173,26,219,High Risk,Medium,Non-Smoker,Moderate,Normal,Yes,Yes,Normal,1,20,18,Normal,2.954,Yes
+Prediabetic,Negative,Positive,No,Present,17,46,25,Low,Healthy,125,223,38,120,High Risk,High,Non-Smoker,Moderate,Abnormal,No,No,Complications,15,79,40,Ketones Present,2.994,No
+Gestational Diabetes,Negative,Negative,No,Present,26,39,25,High,Healthy,109,201,40,114,Low Risk,Low,Non-Smoker,High,Abnormal,No,Yes,Complications,23,60,67,Ketones Present,4.477,Yes
+Secondary Diabetes,Positive,Negative,Yes,Present,45,43,28,High,Healthy,127,229,36,188,High Risk,Medium,Non-Smoker,Low,Normal,Yes,Yes,Normal,37,44,57,Protein Present,3.805,No
+Secondary Diabetes,Negative,Negative,Yes,Present,27,50,27,High,Healthy,133,259,41,239,High Risk,High,Smoker,Moderate,Normal,Yes,Yes,Normal,34,80,62,Normal,3.885,Yes
+LADA,Positive,Negative,Yes,Present,10,43,25,High,Healthy,124,211,30,123,High Risk,Medium,Smoker,High,Abnormal,No,No,Normal,7,44,69,Protein Present,3.238,Yes
+Secondary Diabetes,Negative,Negative,No,Present,33,77,27,Moderate,Unhealthy,135,299,44,181,Low Risk,Low,Non-Smoker,Moderate,Normal,Yes,Yes,Normal,38,89,50,Ketones Present,2.815,Yes
+Steroid-Induced Diabetes,Positive,Negative,Yes,Present,20,33,35,High,Unhealthy,137,222,48,221,Low Risk,Medium,Smoker,High,Abnormal,Yes,No,Normal,21,49,42,Glucose Present,3.856,Yes
+Secondary Diabetes,Negative,Positive,Yes,Present,38,73,26,High,Unhealthy,146,286,43,239,Low Risk,Low,Non-Smoker,Moderate,Normal,Yes,Yes,Complications,28,71,66,Protein Present,3.579,Yes
+Steroid-Induced Diabetes,Positive,Negative,No,Present,34,51,21,High,Healthy,146,294,48,240,Low Risk,High,Smoker,Moderate,Abnormal,No,Yes,Normal,25,78,34,Glucose Present,3.085,No
+Gestational Diabetes,Positive,Positive,Yes,Present,15,32,27,Low,Unhealthy,114,178,31,105,High Risk,High,Smoker,High,Abnormal,No,No,Normal,15,46,55,Ketones Present,3.335,Yes
+Type 1 Diabetes,Positive,Negative,Yes,Absent,12,28,24,Moderate,Unhealthy,92,180,33,129,Low Risk,Medium,Smoker,High,Normal,No,Yes,Normal,15,38,49,Protein Present,3.223,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,Yes,Present,12,1,16,High,Healthy,60,173,27,185,Low Risk,Low,Non-Smoker,Low,Abnormal,Yes,No,Normal,5,18,20,Glucose Present,2.062,Yes
+Type 1 Diabetes,Negative,Positive,Yes,Absent,11,5,24,Moderate,Unhealthy,104,162,30,113,High Risk,Medium,Non-Smoker,High,Normal,Yes,Yes,Normal,12,48,51,Glucose Present,3.554,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Negative,No,Present,20,22,31,High,Healthy,102,152,35,154,High Risk,Low,Smoker,Low,Abnormal,Yes,No,Normal,15,30,55,Glucose Present,3.526,Yes
+Gestational Diabetes,Positive,Positive,No,Present,22,28,27,Low,Healthy,128,198,31,97,Low Risk,Low,Smoker,Moderate,Abnormal,Yes,No,Complications,18,74,43,Normal,2.917,No
+LADA,Positive,Positive,Yes,Present,30,30,22,High,Healthy,101,181,38,120,Low Risk,Medium,Smoker,High,Abnormal,Yes,Yes,Complications,5,71,42,Normal,3.53,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,Yes,Absent,46,49,29,Low,Healthy,136,263,38,233,High Risk,Medium,Smoker,Low,Normal,Yes,Yes,Complications,20,21,32,Glucose Present,3.316,Yes
+Wolcott-Rallison Syndrome,Negative,Positive,No,Absent,16,9,23,Low,Healthy,105,141,26,201,Low Risk,High,Non-Smoker,Low,Abnormal,No,No,Complications,0,27,19,Glucose Present,2.76,No
+Type 1 Diabetes,Negative,Positive,No,Absent,15,28,16,High,Unhealthy,103,168,30,148,High Risk,High,Non-Smoker,Moderate,Abnormal,Yes,Yes,Complications,15,32,50,Protein Present,2.798,No
+MODY,Positive,Negative,No,Present,23,26,27,Low,Unhealthy,104,152,33,93,High Risk,High,Non-Smoker,Moderate,Abnormal,Yes,Yes,Normal,14,60,55,Ketones Present,3.985,No
+Secondary Diabetes,Positive,Positive,No,Absent,10,52,24,High,Healthy,115,213,43,163,High Risk,Low,Smoker,Low,Normal,No,No,Normal,18,88,79,Ketones Present,3.026,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,No,Present,22,21,32,Moderate,Unhealthy,109,218,39,163,Low Risk,High,Smoker,Moderate,Normal,No,No,Normal,14,50,38,Ketones Present,3.507,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,Yes,Absent,8,1,14,Low,Unhealthy,63,171,27,138,Low Risk,Low,Smoker,High,Abnormal,No,Yes,Complications,3,31,19,Glucose Present,2.779,Yes
+LADA,Positive,Positive,No,Present,16,30,20,High,Healthy,110,216,36,153,Low Risk,High,Non-Smoker,Moderate,Normal,Yes,No,Normal,18,50,40,Ketones Present,3.258,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Negative,No,Present,41,52,31,Low,Unhealthy,144,188,48,157,Low Risk,Low,Non-Smoker,Low,Abnormal,Yes,No,Normal,24,73,40,Ketones Present,3.564,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,Yes,Present,22,28,25,High,Healthy,123,210,31,160,Low Risk,Low,Smoker,High,Abnormal,Yes,Yes,Normal,21,60,65,Protein Present,2.91,No
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,No,Absent,13,1,19,High,Healthy,69,129,21,152,Low Risk,High,Smoker,Low,Normal,Yes,Yes,Complications,5,24,13,Protein Present,1.66,No
+Neonatal Diabetes Mellitus (NDM),Negative,Positive,Yes,Absent,14,1,12,Low,Unhealthy,69,133,24,145,Low Risk,High,Smoker,Moderate,Abnormal,No,No,Normal,6,34,10,Normal,1.652,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Negative,No,Present,20,54,27,High,Unhealthy,147,212,36,212,High Risk,Medium,Non-Smoker,High,Abnormal,No,No,Complications,25,46,64,Normal,2.663,No
+Secondary Diabetes,Positive,Positive,Yes,Absent,16,40,33,High,Healthy,117,293,34,164,High Risk,Medium,Smoker,High,Normal,No,No,Complications,22,68,67,Glucose Present,3.007,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Positive,No,Absent,6,0,12,High,Healthy,75,134,25,122,High Risk,Medium,Smoker,Low,Abnormal,No,No,Complications,8,20,19,Glucose Present,2.926,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Positive,Yes,Present,10,1,14,Moderate,Unhealthy,73,132,21,191,Low Risk,High,Smoker,Moderate,Normal,Yes,Yes,Complications,0,14,19,Ketones Present,2.297,No
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,Yes,Absent,26,18,28,Low,Healthy,121,197,37,168,Low Risk,High,Smoker,Moderate,Normal,Yes,No,Normal,23,46,32,Glucose Present,3.916,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Negative,Yes,Present,11,0,15,Moderate,Healthy,74,143,25,146,High Risk,High,Smoker,Low,Normal,No,No,Complications,1,16,23,Ketones Present,1.762,Yes
+Secondary Diabetes,Positive,Positive,No,Present,17,49,28,Low,Unhealthy,149,186,35,163,Low Risk,Medium,Smoker,Low,Normal,Yes,No,Complications,21,98,58,Normal,3.332,Yes
+Wolfram Syndrome,Positive,Positive,No,Present,11,18,24,Low,Healthy,101,146,29,200,High Risk,Medium,Smoker,High,Normal,No,Yes,Complications,1,15,13,Normal,2.126,Yes
+LADA,Negative,Positive,No,Present,39,42,25,High,Healthy,121,203,30,104,Low Risk,Medium,Smoker,High,Abnormal,No,Yes,Normal,12,48,34,Glucose Present,2.602,No
+Gestational Diabetes,Negative,Positive,No,Present,11,31,28,Low,Healthy,121,219,40,115,Low Risk,Low,Smoker,High,Abnormal,No,No,Complications,26,77,44,Glucose Present,3.205,No
+Wolcott-Rallison Syndrome,Positive,Positive,No,Absent,12,1,20,High,Unhealthy,103,178,33,195,High Risk,Medium,Smoker,High,Normal,Yes,Yes,Normal,0,17,16,Protein Present,2.935,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,Yes,Present,30,18,25,Moderate,Healthy,93,189,32,130,Low Risk,Low,Non-Smoker,Moderate,Normal,Yes,Yes,Complications,12,45,59,Protein Present,2.996,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,No,Absent,9,0,17,High,Unhealthy,72,131,23,163,High Risk,Medium,Non-Smoker,Moderate,Abnormal,No,Yes,Normal,5,20,24,Glucose Present,2.755,No
+MODY,Negative,Negative,No,Present,23,18,22,Moderate,Unhealthy,109,181,29,96,High Risk,Low,Smoker,Low,Abnormal,Yes,No,Normal,19,61,37,Normal,3.962,Yes
+Steroid-Induced Diabetes,Positive,Negative,Yes,Absent,42,60,27,Moderate,Unhealthy,143,268,52,244,Low Risk,Medium,Smoker,Low,Normal,Yes,Yes,Normal,16,27,67,Protein Present,2.614,No
+Type 1 Diabetes,Negative,Positive,Yes,Present,10,7,19,High,Unhealthy,91,192,32,100,Low Risk,High,Non-Smoker,High,Abnormal,Yes,No,Complications,10,65,44,Ketones Present,3.622,Yes
+Wolcott-Rallison Syndrome,Negative,Negative,Yes,Present,5,5,16,Low,Healthy,92,127,30,219,Low Risk,Medium,Smoker,Low,Abnormal,No,Yes,Normal,1,27,17,Glucose Present,2.167,Yes
+Prediabetic,Positive,Negative,Yes,Absent,26,36,26,High,Healthy,114,231,38,102,High Risk,Low,Non-Smoker,Moderate,Abnormal,Yes,No,Complications,16,77,59,Normal,3.444,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,Yes,Present,16,19,21,Moderate,Healthy,118,206,32,159,High Risk,Low,Non-Smoker,Moderate,Normal,No,No,Normal,22,45,34,Protein Present,3.429,No
+Prediabetic,Negative,Positive,No,Absent,13,35,25,High,Healthy,125,180,39,118,Low Risk,High,Smoker,Low,Abnormal,No,Yes,Complications,16,74,79,Protein Present,3.892,Yes
+MODY,Positive,Positive,No,Absent,11,23,27,High,Unhealthy,94,192,31,118,High Risk,Low,Non-Smoker,Moderate,Normal,No,No,Normal,13,34,46,Protein Present,2.743,Yes
+MODY,Positive,Positive,No,Absent,18,18,20,High,Healthy,106,193,28,115,Low Risk,High,Smoker,High,Abnormal,No,No,Normal,5,64,47,Ketones Present,3.453,Yes
+Secondary Diabetes,Negative,Negative,Yes,Present,46,58,23,Low,Healthy,123,274,45,238,High Risk,High,Smoker,Low,Normal,No,Yes,Complications,24,68,68,Normal,3.587,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,Yes,Present,7,1,13,High,Unhealthy,76,138,20,197,Low Risk,Medium,Non-Smoker,Moderate,Abnormal,Yes,No,Normal,1,10,12,Ketones Present,2.489,No
+Wolfram Syndrome,Positive,Negative,Yes,Absent,10,9,22,Low,Healthy,92,116,27,290,Low Risk,High,Non-Smoker,Moderate,Abnormal,No,No,Normal,4,35,22,Normal,1.59,No
+Secondary Diabetes,Negative,Positive,Yes,Present,31,72,24,High,Healthy,118,262,49,172,Low Risk,Medium,Non-Smoker,Moderate,Abnormal,No,No,Complications,20,65,64,Protein Present,2.72,Yes
+Prediabetic,Negative,Positive,Yes,Absent,20,33,28,Moderate,Healthy,123,209,36,115,Low Risk,Medium,Smoker,High,Normal,Yes,No,Complications,29,46,60,Normal,3.801,Yes
+Wolcott-Rallison Syndrome,Positive,Negative,No,Present,16,9,17,Moderate,Unhealthy,99,120,27,236,Low Risk,Low,Smoker,Low,Normal,No,No,Complications,0,13,12,Normal,1.965,Yes
+Type 1 Diabetes,Negative,Negative,No,Present,15,13,16,High,Unhealthy,108,180,29,128,Low Risk,Medium,Smoker,Low,Normal,Yes,Yes,Normal,18,73,45,Protein Present,3.317,Yes
+Wolcott-Rallison Syndrome,Positive,Negative,No,Present,12,8,16,Low,Healthy,103,136,28,216,High Risk,Low,Non-Smoker,Moderate,Normal,Yes,Yes,Complications,4,31,14,Ketones Present,2.816,Yes
+Type 1 Diabetes,Negative,Negative,No,Present,13,19,23,Low,Unhealthy,109,150,30,105,Low Risk,Low,Smoker,Low,Normal,No,No,Complications,19,66,41,Protein Present,2.587,Yes
+Secondary Diabetes,Positive,Positive,No,Absent,20,48,28,Moderate,Unhealthy,125,191,49,242,High Risk,High,Non-Smoker,Moderate,Abnormal,Yes,No,Complications,28,96,76,Ketones Present,2.626,No
+Gestational Diabetes,Positive,Negative,Yes,Absent,27,36,27,High,Healthy,116,164,30,104,High Risk,Medium,Smoker,Moderate,Abnormal,No,Yes,Complications,22,70,35,Ketones Present,3.723,No
+Wolcott-Rallison Syndrome,Positive,Positive,Yes,Present,7,3,15,Moderate,Healthy,83,137,30,209,Low Risk,Medium,Non-Smoker,High,Normal,Yes,No,Complications,2,25,18,Ketones Present,2.756,Yes
+Secondary Diabetes,Positive,Positive,No,Absent,33,70,28,Low,Healthy,118,223,35,246,High Risk,Low,Non-Smoker,High,Normal,Yes,No,Complications,30,36,51,Protein Present,3.145,No
+MODY,Negative,Negative,Yes,Absent,10,18,23,High,Unhealthy,96,179,34,84,High Risk,Low,Non-Smoker,Low,Normal,No,No,Normal,5,59,35,Protein Present,3.365,Yes
+Gestational Diabetes,Negative,Positive,No,Absent,11,26,24,High,Healthy,107,183,35,121,Low Risk,Low,Smoker,Low,Abnormal,Yes,No,Complications,19,64,62,Glucose Present,3.771,Yes
+Wolfram Syndrome,Negative,Negative,No,Present,12,5,17,Moderate,Unhealthy,103,145,27,265,Low Risk,Low,Non-Smoker,High,Abnormal,No,Yes,Complications,2,11,27,Ketones Present,1.768,Yes
+Wolfram Syndrome,Positive,Negative,No,Present,13,8,17,High,Healthy,85,129,28,212,High Risk,Medium,Smoker,Moderate,Normal,Yes,Yes,Complications,1,14,29,Ketones Present,2.407,No
+Neonatal Diabetes Mellitus (NDM),Negative,Positive,No,Absent,6,0,16,High,Healthy,70,154,25,185,Low Risk,High,Non-Smoker,Moderate,Abnormal,Yes,Yes,Normal,5,39,23,Protein Present,2.48,Yes
+MODY,Positive,Positive,Yes,Present,16,23,22,High,Unhealthy,109,158,35,132,High Risk,High,Smoker,High,Normal,No,No,Complications,13,75,34,Protein Present,3.546,No
+Prediabetic,Positive,Negative,Yes,Present,20,42,26,Low,Healthy,129,223,34,124,High Risk,Low,Smoker,Low,Normal,No,Yes,Complications,28,77,70,Normal,2.757,No
+LADA,Negative,Positive,No,Absent,35,55,32,High,Unhealthy,116,199,31,109,Low Risk,High,Smoker,Low,Normal,No,Yes,Normal,15,68,38,Ketones Present,2.994,No
+MODY,Positive,Negative,No,Absent,15,22,25,High,Unhealthy,112,191,33,104,High Risk,Low,Smoker,Low,Abnormal,No,Yes,Normal,15,53,62,Ketones Present,3.377,No
+Gestational Diabetes,Positive,Positive,No,Absent,21,22,24,Moderate,Healthy,110,203,34,92,High Risk,Low,Smoker,High,Normal,No,No,Normal,27,30,68,Normal,2.686,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Positive,Yes,Present,17,17,26,Moderate,Healthy,95,157,30,113,High Risk,High,Non-Smoker,High,Abnormal,Yes,No,Normal,13,56,67,Normal,2.787,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,Yes,Present,33,18,25,Low,Healthy,101,174,33,121,High Risk,High,Non-Smoker,Low,Abnormal,Yes,Yes,Normal,18,31,75,Glucose Present,3.728,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,Yes,Present,27,24,26,High,Healthy,112,156,33,125,High Risk,High,Smoker,Moderate,Abnormal,Yes,Yes,Complications,22,54,55,Normal,3.558,Yes
+Wolcott-Rallison Syndrome,Positive,Positive,No,Present,18,9,19,Moderate,Unhealthy,104,157,25,158,High Risk,Medium,Non-Smoker,High,Abnormal,Yes,No,Normal,3,11,28,Glucose Present,1.987,Yes
+MODY,Positive,Positive,Yes,Absent,27,28,23,Low,Unhealthy,90,176,35,120,High Risk,Medium,Smoker,High,Normal,Yes,No,Complications,9,72,65,Protein Present,2.688,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Positive,Yes,Present,11,1,15,Low,Unhealthy,62,122,28,191,Low Risk,High,Non-Smoker,Low,Abnormal,Yes,Yes,Normal,0,39,25,Normal,2.114,No
+Gestational Diabetes,Positive,Negative,Yes,Present,11,36,34,High,Healthy,126,225,34,94,High Risk,Low,Smoker,Low,Abnormal,Yes,Yes,Complications,25,44,71,Ketones Present,4.168,No
+Secondary Diabetes,Negative,Negative,No,Absent,30,47,28,Moderate,Unhealthy,127,217,35,237,Low Risk,High,Non-Smoker,High,Abnormal,No,No,Complications,31,34,77,Glucose Present,4.042,No
+Wolcott-Rallison Syndrome,Negative,Positive,No,Present,12,7,20,High,Unhealthy,80,114,28,232,Low Risk,Medium,Smoker,Low,Abnormal,Yes,Yes,Complications,1,26,28,Glucose Present,2.312,Yes
+LADA,Positive,Positive,No,Present,25,38,27,High,Unhealthy,121,161,41,107,Low Risk,Low,Non-Smoker,Moderate,Normal,No,No,Normal,10,43,45,Glucose Present,3.567,No
+Steroid-Induced Diabetes,Positive,Positive,No,Present,42,40,28,High,Healthy,130,297,52,203,Low Risk,High,Non-Smoker,Moderate,Abnormal,No,Yes,Normal,22,52,50,Ketones Present,2.508,No
+Type 1 Diabetes,Positive,Negative,No,Absent,7,25,23,Low,Unhealthy,113,198,28,107,High Risk,Medium,Smoker,High,Abnormal,No,No,Complications,7,34,30,Glucose Present,2.978,No
+Secondary Diabetes,Negative,Negative,Yes,Absent,48,50,28,High,Unhealthy,115,180,39,198,Low Risk,Medium,Smoker,Low,Normal,Yes,Yes,Complications,39,97,42,Protein Present,2.925,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Positive,No,Present,29,10,29,Moderate,Unhealthy,107,188,29,105,Low Risk,Low,Non-Smoker,Low,Abnormal,No,Yes,Normal,20,38,76,Glucose Present,3.365,No
+Wolfram Syndrome,Negative,Negative,Yes,Present,15,16,21,Low,Healthy,107,136,34,250,High Risk,Medium,Smoker,High,Abnormal,Yes,No,Complications,3,19,25,Ketones Present,2.355,No
+Gestational Diabetes,Negative,Positive,Yes,Absent,14,36,20,Moderate,Healthy,106,215,31,135,Low Risk,Medium,Smoker,Low,Normal,No,Yes,Normal,13,55,53,Protein Present,3.446,Yes
+Type 1 Diabetes,Positive,Positive,No,Present,13,13,22,High,Unhealthy,119,158,28,140,High Risk,High,Non-Smoker,Moderate,Abnormal,No,Yes,Complications,18,52,61,Protein Present,2.95,No
+Prediabetic,Negative,Negative,Yes,Absent,12,49,27,Moderate,Healthy,117,237,32,113,Low Risk,Low,Smoker,High,Abnormal,No,No,Normal,15,42,41,Protein Present,3.282,Yes
+Type 1 Diabetes,Negative,Positive,No,Present,15,24,15,Moderate,Healthy,113,164,32,127,High Risk,Low,Smoker,Moderate,Normal,No,Yes,Normal,12,31,37,Glucose Present,2.63,Yes
+Secondary Diabetes,Negative,Negative,Yes,Present,32,79,23,High,Unhealthy,141,220,40,173,Low Risk,High,Smoker,Low,Abnormal,No,Yes,Complications,34,43,52,Normal,3.138,No
+Type 1 Diabetes,Negative,Positive,Yes,Absent,7,26,17,Moderate,Healthy,94,160,32,122,High Risk,Medium,Smoker,Moderate,Normal,Yes,No,Complications,9,31,43,Normal,3.651,No
+MODY,Positive,Positive,Yes,Present,12,21,27,Moderate,Unhealthy,116,187,34,114,High Risk,High,Smoker,Low,Abnormal,Yes,No,Normal,5,37,57,Protein Present,3.752,No
+Steroid-Induced Diabetes,Negative,Negative,No,Present,30,53,29,High,Unhealthy,122,209,51,184,Low Risk,High,Smoker,Low,Normal,Yes,No,Complications,23,22,38,Normal,4.139,No
+Steroid-Induced Diabetes,Negative,Negative,Yes,Absent,41,33,28,High,Unhealthy,128,242,51,223,High Risk,Low,Non-Smoker,High,Normal,Yes,Yes,Complications,28,74,35,Ketones Present,3.067,Yes
+Wolfram Syndrome,Negative,Negative,Yes,Absent,14,18,24,Low,Healthy,90,139,25,227,High Risk,Medium,Non-Smoker,High,Abnormal,No,Yes,Complications,3,34,11,Glucose Present,2.245,No
+Steroid-Induced Diabetes,Negative,Positive,Yes,Present,26,42,35,Moderate,Healthy,125,222,42,174,Low Risk,High,Non-Smoker,Moderate,Abnormal,Yes,No,Normal,18,41,30,Normal,2.825,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Negative,Yes,Absent,33,40,28,Low,Unhealthy,127,194,48,171,Low Risk,Medium,Non-Smoker,High,Abnormal,No,No,Normal,22,77,52,Glucose Present,4.145,No
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Positive,No,Absent,19,14,28,High,Healthy,99,197,32,122,Low Risk,Low,Smoker,Low,Normal,Yes,Yes,Complications,11,67,60,Normal,3.861,Yes
+Gestational Diabetes,Positive,Positive,Yes,Present,24,21,27,High,Healthy,108,163,33,112,High Risk,Medium,Smoker,Low,Normal,Yes,No,Complications,24,46,35,Ketones Present,2.907,No
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,Yes,Absent,5,1,15,High,Unhealthy,62,172,24,183,High Risk,High,Non-Smoker,Moderate,Normal,Yes,Yes,Normal,8,39,20,Ketones Present,2.114,Yes
+Type 1 Diabetes,Positive,Positive,Yes,Present,6,9,21,Low,Healthy,90,190,32,127,High Risk,Medium,Smoker,Moderate,Normal,No,Yes,Complications,7,46,53,Ketones Present,3.922,No
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,No,Present,9,1,16,Low,Healthy,74,123,21,182,Low Risk,High,Non-Smoker,High,Abnormal,No,Yes,Normal,6,26,23,Protein Present,2.204,Yes
+Wolcott-Rallison Syndrome,Positive,Negative,No,Absent,17,6,15,High,Unhealthy,93,132,30,172,Low Risk,Low,Smoker,Moderate,Abnormal,Yes,No,Complications,0,37,28,Protein Present,2.592,Yes
+Wolcott-Rallison Syndrome,Negative,Positive,No,Present,10,2,23,Low,Unhealthy,103,131,33,211,High Risk,High,Smoker,High,Abnormal,Yes,No,Complications,1,29,14,Normal,2.318,Yes
+MODY,Negative,Positive,No,Present,24,28,25,High,Unhealthy,114,150,31,106,Low Risk,High,Non-Smoker,Moderate,Normal,Yes,No,Complications,7,71,54,Glucose Present,2.973,No
+MODY,Positive,Positive,No,Present,28,14,29,Moderate,Healthy,104,153,30,129,Low Risk,Low,Non-Smoker,Moderate,Normal,No,Yes,Normal,16,32,43,Glucose Present,2.692,Yes
+Wolcott-Rallison Syndrome,Positive,Negative,Yes,Present,5,9,23,High,Healthy,101,109,25,183,Low Risk,Medium,Non-Smoker,Low,Normal,No,Yes,Normal,1,20,23,Normal,2.365,Yes
+Secondary Diabetes,Negative,Negative,No,Absent,42,49,32,Moderate,Healthy,133,250,47,169,High Risk,Low,Non-Smoker,High,Abnormal,Yes,No,Normal,24,30,72,Protein Present,3.397,Yes
+LADA,Positive,Positive,No,Present,36,37,22,High,Unhealthy,126,199,30,154,Low Risk,Low,Smoker,Low,Normal,Yes,No,Normal,14,61,57,Normal,3.779,Yes
+LADA,Positive,Positive,No,Present,27,44,26,Moderate,Unhealthy,122,205,30,115,Low Risk,Low,Smoker,Moderate,Abnormal,Yes,Yes,Normal,5,57,41,Ketones Present,3.653,Yes
+Wolcott-Rallison Syndrome,Positive,Positive,Yes,Present,9,4,21,Low,Unhealthy,100,129,30,169,Low Risk,High,Non-Smoker,Low,Abnormal,No,No,Complications,1,17,20,Glucose Present,2.352,Yes
+Type 2 Diabetes,Positive,Negative,Yes,Absent,47,42,27,High,Unhealthy,137,269,47,189,High Risk,Medium,Non-Smoker,High,Normal,Yes,Yes,Complications,28,22,96,Normal,3.573,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,Yes,Present,44,69,30,Moderate,Healthy,123,233,49,207,Low Risk,Low,Smoker,Moderate,Abnormal,No,Yes,Complications,26,67,60,Glucose Present,4.078,No
+Type 1 Diabetes,Negative,Positive,No,Absent,18,6,15,High,Healthy,97,157,30,106,Low Risk,Low,Smoker,Low,Abnormal,Yes,Yes,Complications,24,43,40,Normal,3.866,No
+Secondary Diabetes,Negative,Positive,No,Present,36,52,34,High,Healthy,112,225,42,156,Low Risk,High,Smoker,Low,Normal,No,No,Normal,39,42,77,Glucose Present,3.451,No
+Type 1 Diabetes,Negative,Negative,No,Present,16,7,23,High,Healthy,103,181,31,100,High Risk,High,Smoker,High,Normal,No,Yes,Complications,8,39,53,Protein Present,3.556,Yes
+Wolfram Syndrome,Positive,Negative,Yes,Absent,11,7,17,High,Healthy,99,140,32,289,Low Risk,Low,Non-Smoker,High,Normal,Yes,No,Complications,0,19,22,Glucose Present,1.902,No
+Type 1 Diabetes,Negative,Positive,No,Present,12,18,19,Low,Healthy,100,182,29,124,Low Risk,Medium,Non-Smoker,Low,Normal,Yes,Yes,Normal,13,77,65,Protein Present,3.278,Yes
+Steroid-Induced Diabetes,Positive,Positive,Yes,Present,43,36,27,High,Healthy,144,225,46,131,High Risk,High,Non-Smoker,High,Normal,No,Yes,Complications,19,27,38,Glucose Present,3.604,No
+MODY,Negative,Negative,No,Present,27,17,18,Moderate,Unhealthy,110,175,32,83,High Risk,Medium,Smoker,High,Abnormal,No,No,Normal,11,54,45,Protein Present,3.694,Yes
+Gestational Diabetes,Positive,Positive,Yes,Present,10,25,22,Moderate,Unhealthy,113,199,33,96,High Risk,High,Smoker,Low,Normal,Yes,Yes,Normal,11,67,61,Normal,2.644,Yes
+LADA,Negative,Positive,Yes,Present,14,33,20,High,Healthy,103,152,37,120,High Risk,High,Non-Smoker,Low,Abnormal,No,Yes,Normal,12,70,44,Normal,3.275,No
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Positive,Yes,Absent,15,27,23,Moderate,Unhealthy,113,164,28,155,High Risk,High,Smoker,Low,Normal,No,Yes,Complications,14,49,70,Ketones Present,3.591,Yes
+MODY,Negative,Negative,No,Absent,25,24,23,Moderate,Healthy,95,194,31,109,High Risk,High,Non-Smoker,Moderate,Normal,Yes,Yes,Complications,11,68,64,Protein Present,3.925,No
+Gestational Diabetes,Negative,Negative,No,Absent,21,35,27,Moderate,Healthy,118,193,33,118,Low Risk,Low,Smoker,Low,Abnormal,No,Yes,Complications,18,39,56,Glucose Present,3.191,Yes
+LADA,Negative,Negative,No,Present,36,54,27,Moderate,Healthy,120,227,32,159,High Risk,Low,Non-Smoker,High,Abnormal,No,No,Normal,6,45,63,Glucose Present,3.394,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Negative,Yes,Present,45,40,25,Low,Healthy,129,265,46,160,High Risk,Low,Smoker,Moderate,Abnormal,Yes,No,Normal,18,27,64,Ketones Present,3.708,Yes
+Gestational Diabetes,Positive,Negative,No,Absent,12,28,21,Moderate,Healthy,125,219,41,95,Low Risk,High,Smoker,Moderate,Abnormal,No,Yes,Normal,15,47,45,Normal,3.51,No
+Prediabetic,Positive,Positive,No,Absent,15,44,27,Moderate,Healthy,125,180,33,113,Low Risk,Medium,Non-Smoker,Low,Normal,Yes,Yes,Normal,14,61,43,Glucose Present,3.181,No
+Secondary Diabetes,Positive,Negative,No,Present,49,70,30,Low,Unhealthy,147,215,46,232,Low Risk,High,Non-Smoker,Moderate,Normal,No,Yes,Complications,34,22,66,Ketones Present,4.239,Yes
+Gestational Diabetes,Negative,Positive,No,Absent,26,33,33,Low,Healthy,100,180,39,116,High Risk,High,Smoker,Moderate,Abnormal,No,Yes,Complications,23,49,59,Normal,2.921,No
+Gestational Diabetes,Negative,Negative,Yes,Absent,13,36,34,Moderate,Unhealthy,102,173,32,101,Low Risk,Medium,Smoker,High,Abnormal,No,Yes,Normal,25,68,57,Normal,3.798,Yes
+LADA,Positive,Positive,No,Absent,19,45,29,Low,Healthy,100,186,31,127,High Risk,High,Non-Smoker,High,Abnormal,No,No,Complications,19,58,35,Normal,3.182,No
+Gestational Diabetes,Positive,Positive,Yes,Absent,18,22,25,Low,Healthy,126,233,34,99,Low Risk,Low,Non-Smoker,High,Abnormal,Yes,Yes,Normal,27,57,64,Normal,3.637,Yes
+Gestational Diabetes,Negative,Negative,Yes,Present,21,28,30,High,Unhealthy,106,226,37,112,Low Risk,Low,Non-Smoker,High,Normal,Yes,Yes,Complications,13,58,50,Glucose Present,3.456,Yes
+LADA,Negative,Positive,Yes,Absent,12,50,27,High,Unhealthy,129,153,40,121,High Risk,High,Smoker,High,Abnormal,Yes,Yes,Normal,5,63,46,Glucose Present,3.257,No
+Wolfram Syndrome,Negative,Negative,Yes,Present,13,12,15,High,Healthy,100,155,33,251,High Risk,Low,Non-Smoker,Moderate,Abnormal,No,Yes,Complications,1,22,24,Protein Present,2.275,No
+MODY,Negative,Negative,No,Absent,12,16,26,Moderate,Healthy,107,166,32,90,Low Risk,High,Non-Smoker,Low,Abnormal,No,Yes,Complications,10,42,36,Protein Present,3.878,No
+Neonatal Diabetes Mellitus (NDM),Negative,Positive,No,Present,13,0,12,Low,Healthy,72,130,23,187,Low Risk,Medium,Non-Smoker,Low,Abnormal,Yes,No,Normal,2,15,11,Normal,2.992,Yes
+Wolfram Syndrome,Negative,Positive,No,Present,13,8,21,High,Healthy,99,148,26,240,Low Risk,High,Smoker,Moderate,Abnormal,No,Yes,Normal,3,33,26,Glucose Present,2.353,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,No,Absent,34,56,30,High,Healthy,136,182,48,198,Low Risk,Medium,Smoker,Moderate,Normal,Yes,Yes,Complications,21,33,60,Protein Present,2.887,No
+Wolcott-Rallison Syndrome,Negative,Positive,Yes,Absent,18,14,21,Low,Healthy,86,116,32,212,Low Risk,High,Non-Smoker,High,Abnormal,Yes,No,Normal,2,17,10,Glucose Present,2.573,Yes
+Type 2 Diabetes,Negative,Negative,No,Absent,46,48,28,Moderate,Unhealthy,135,250,46,158,Low Risk,Medium,Non-Smoker,High,Abnormal,Yes,No,Complications,36,78,97,Normal,3.299,No
+Neonatal Diabetes Mellitus (NDM),Positive,Negative,No,Absent,12,1,16,Moderate,Healthy,68,123,29,144,Low Risk,High,Non-Smoker,High,Normal,No,No,Complications,3,10,12,Ketones Present,2.489,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Negative,Yes,Absent,17,32,29,High,Unhealthy,114,161,33,176,Low Risk,High,Non-Smoker,High,Abnormal,Yes,No,Complications,16,44,47,Glucose Present,2.885,No
+Type 1 Diabetes,Negative,Positive,Yes,Absent,19,15,15,High,Unhealthy,102,159,29,114,Low Risk,Low,Non-Smoker,Low,Normal,No,No,Normal,13,76,41,Glucose Present,3.535,No
+MODY,Positive,Negative,No,Absent,16,22,27,High,Unhealthy,108,151,29,90,Low Risk,Low,Non-Smoker,High,Abnormal,No,Yes,Normal,11,46,51,Ketones Present,3.424,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,No,Absent,36,42,30,Moderate,Healthy,129,205,35,188,High Risk,Medium,Smoker,High,Abnormal,Yes,No,Normal,19,36,65,Ketones Present,3.417,No
+Type 2 Diabetes,Positive,Negative,No,Absent,47,69,28,Moderate,Unhealthy,135,255,36,175,High Risk,Medium,Smoker,Moderate,Abnormal,Yes,No,Normal,23,42,68,Glucose Present,3.88,Yes
+Steroid-Induced Diabetes,Negative,Positive,No,Absent,28,54,35,Low,Unhealthy,125,296,44,174,Low Risk,Medium,Smoker,Moderate,Abnormal,Yes,No,Normal,20,74,31,Glucose Present,4.305,No
+Secondary Diabetes,Positive,Negative,Yes,Present,43,61,22,High,Healthy,113,214,46,241,Low Risk,Medium,Smoker,High,Normal,Yes,No,Normal,22,41,68,Glucose Present,4.453,No
+Type 1 Diabetes,Negative,Positive,No,Present,9,26,21,Moderate,Healthy,95,164,29,138,Low Risk,Medium,Smoker,High,Normal,No,Yes,Normal,18,79,53,Ketones Present,3.846,Yes
+Type 2 Diabetes,Negative,Positive,No,Present,21,54,36,High,Unhealthy,143,207,43,140,Low Risk,Low,Non-Smoker,High,Normal,No,Yes,Normal,24,20,77,Ketones Present,2.927,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Positive,No,Absent,44,49,32,Low,Healthy,121,244,35,161,High Risk,High,Non-Smoker,High,Abnormal,Yes,No,Complications,15,48,34,Normal,2.937,Yes
+Type 1 Diabetes,Positive,Negative,No,Absent,14,28,15,High,Healthy,115,187,32,101,Low Risk,High,Non-Smoker,Low,Normal,No,No,Normal,18,71,65,Protein Present,3.775,No
+Steroid-Induced Diabetes,Negative,Positive,Yes,Present,47,52,30,High,Healthy,126,207,52,213,Low Risk,Medium,Smoker,Moderate,Normal,No,No,Normal,19,51,69,Glucose Present,3.645,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,Yes,Present,20,38,28,Moderate,Unhealthy,106,195,39,113,High Risk,Medium,Smoker,Low,Abnormal,Yes,No,Complications,19,31,42,Glucose Present,2.855,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,Yes,Absent,9,1,12,Moderate,Healthy,76,122,22,185,Low Risk,Low,Smoker,Low,Abnormal,No,No,Complications,6,36,28,Protein Present,2.38,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,Yes,Present,48,67,30,Moderate,Healthy,149,206,45,165,Low Risk,High,Smoker,Low,Abnormal,Yes,No,Complications,21,38,39,Ketones Present,3.714,Yes
+Prediabetic,Negative,Negative,Yes,Absent,19,33,28,Low,Unhealthy,123,187,35,116,High Risk,High,Non-Smoker,High,Abnormal,No,No,Normal,19,31,49,Protein Present,2.564,No
+Steroid-Induced Diabetes,Positive,Negative,No,Absent,41,58,28,Moderate,Unhealthy,131,250,45,249,High Risk,Low,Smoker,High,Normal,Yes,No,Complications,18,50,51,Protein Present,3.646,No
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Negative,Yes,Absent,33,28,24,High,Healthy,122,208,32,143,Low Risk,High,Non-Smoker,High,Normal,No,No,Complications,11,30,73,Glucose Present,3.372,No
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,No,Present,25,21,19,Low,Healthy,120,162,33,167,Low Risk,High,Non-Smoker,Moderate,Normal,Yes,Yes,Complications,21,48,44,Ketones Present,2.804,Yes
+Wolcott-Rallison Syndrome,Positive,Negative,No,Absent,14,4,17,High,Unhealthy,87,147,28,205,Low Risk,Medium,Smoker,High,Abnormal,No,Yes,Complications,1,26,15,Normal,2.823,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,No,Absent,44,58,25,Moderate,Healthy,123,191,45,243,Low Risk,Medium,Smoker,Moderate,Normal,No,No,Normal,27,40,68,Normal,3.185,Yes
+MODY,Positive,Positive,Yes,Present,23,28,25,High,Healthy,92,182,32,92,Low Risk,Low,Smoker,High,Abnormal,Yes,Yes,Normal,11,78,47,Ketones Present,3.391,No
+Neonatal Diabetes Mellitus (NDM),Negative,Positive,Yes,Present,6,1,12,Low,Healthy,73,137,23,123,High Risk,Low,Non-Smoker,Low,Normal,Yes,No,Normal,2,31,17,Ketones Present,2.787,No
+Gestational Diabetes,Negative,Positive,Yes,Present,17,39,32,Moderate,Healthy,101,171,40,121,High Risk,Medium,Smoker,High,Normal,Yes,No,Normal,18,57,52,Ketones Present,2.878,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,No,Absent,11,1,16,High,Unhealthy,69,128,29,162,High Risk,High,Smoker,Moderate,Abnormal,Yes,No,Complications,7,36,21,Ketones Present,1.803,No
+Type 2 Diabetes,Positive,Negative,Yes,Present,48,69,29,Low,Unhealthy,121,211,49,131,Low Risk,High,Non-Smoker,High,Abnormal,No,Yes,Complications,30,83,64,Protein Present,3.766,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Negative,Yes,Absent,10,0,12,Moderate,Healthy,73,178,23,199,Low Risk,Low,Smoker,Low,Normal,Yes,Yes,Normal,6,24,29,Protein Present,2.081,Yes
+Wolfram Syndrome,Positive,Negative,Yes,Absent,12,19,23,Moderate,Unhealthy,87,169,30,273,High Risk,High,Smoker,High,Normal,Yes,Yes,Complications,0,16,28,Protein Present,1.58,Yes
+Steroid-Induced Diabetes,Positive,Positive,No,Absent,30,36,21,Low,Healthy,130,258,48,140,Low Risk,High,Smoker,Low,Abnormal,No,Yes,Normal,21,23,66,Ketones Present,3.851,Yes
+MODY,Positive,Negative,Yes,Present,13,22,24,High,Unhealthy,102,171,30,115,High Risk,High,Non-Smoker,Low,Abnormal,Yes,Yes,Normal,5,50,63,Protein Present,3.388,Yes
+Type 1 Diabetes,Negative,Negative,Yes,Present,5,20,24,High,Unhealthy,114,185,32,144,Low Risk,Low,Non-Smoker,Moderate,Abnormal,No,Yes,Complications,21,38,30,Glucose Present,3.958,Yes
+Steroid-Induced Diabetes,Negative,Negative,No,Present,30,66,23,Low,Unhealthy,146,254,43,143,Low Risk,High,Non-Smoker,Moderate,Normal,No,Yes,Normal,22,71,57,Normal,2.614,Yes
+Type 1 Diabetes,Negative,Positive,No,Absent,6,14,18,High,Healthy,100,198,28,138,Low Risk,Low,Smoker,Moderate,Abnormal,Yes,Yes,Complications,21,46,37,Normal,2.715,Yes
+Steroid-Induced Diabetes,Negative,Negative,No,Absent,33,56,21,Moderate,Healthy,149,210,53,150,High Risk,Medium,Smoker,Low,Abnormal,Yes,Yes,Normal,18,30,47,Ketones Present,3.132,No
+Wolfram Syndrome,Positive,Negative,Yes,Present,18,6,15,Moderate,Unhealthy,85,157,26,233,Low Risk,Medium,Smoker,Moderate,Abnormal,Yes,No,Normal,0,13,12,Protein Present,1.731,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,Yes,Present,45,68,28,High,Unhealthy,123,209,37,192,High Risk,Low,Non-Smoker,Moderate,Abnormal,Yes,Yes,Normal,27,66,33,Protein Present,3.262,No
+Gestational Diabetes,Negative,Positive,Yes,Present,25,31,34,Moderate,Healthy,124,185,32,116,Low Risk,Low,Non-Smoker,High,Abnormal,No,No,Complications,29,32,41,Protein Present,2.716,Yes
+Type 1 Diabetes,Negative,Negative,No,Absent,18,20,23,Moderate,Unhealthy,103,189,33,140,Low Risk,Low,Smoker,Low,Normal,Yes,Yes,Complications,15,47,48,Protein Present,3.153,No
+Wolfram Syndrome,Negative,Positive,No,Present,12,10,17,High,Healthy,81,102,26,243,High Risk,Low,Non-Smoker,Moderate,Abnormal,Yes,Yes,Complications,3,39,28,Ketones Present,2.428,No
+Type 2 Diabetes,Negative,Negative,Yes,Present,32,41,32,Moderate,Unhealthy,115,279,44,133,High Risk,High,Smoker,Moderate,Normal,No,No,Normal,26,76,53,Protein Present,2.507,Yes
+Wolfram Syndrome,Negative,Negative,No,Present,15,13,15,High,Healthy,89,175,33,274,High Risk,High,Non-Smoker,High,Abnormal,No,Yes,Complications,4,29,18,Normal,2.481,No
+Type 1 Diabetes,Positive,Negative,No,Present,15,19,23,Low,Healthy,94,180,31,104,High Risk,High,Smoker,Moderate,Abnormal,No,No,Normal,21,64,35,Normal,2.614,No
+Gestational Diabetes,Negative,Positive,Yes,Present,20,30,21,Low,Unhealthy,117,216,32,98,High Risk,Low,Smoker,High,Abnormal,No,No,Normal,23,43,41,Normal,4.044,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,Yes,Absent,34,38,20,Moderate,Healthy,98,154,33,128,Low Risk,High,Smoker,Low,Normal,No,No,Normal,14,33,31,Normal,3.303,No
+Wolfram Syndrome,Positive,Negative,No,Present,12,8,20,Moderate,Unhealthy,100,130,32,266,Low Risk,Low,Smoker,Low,Normal,Yes,Yes,Normal,1,23,11,Protein Present,1.62,Yes
+Prediabetic,Positive,Positive,No,Present,28,42,26,Low,Healthy,126,219,35,105,Low Risk,High,Smoker,High,Normal,Yes,No,Normal,26,43,54,Protein Present,3.369,Yes
+Type 1 Diabetes,Positive,Positive,Yes,Absent,10,10,22,Low,Unhealthy,102,199,30,139,High Risk,High,Smoker,Low,Abnormal,Yes,Yes,Normal,18,33,53,Ketones Present,3.964,Yes
+MODY,Positive,Negative,Yes,Present,21,15,23,Moderate,Healthy,113,150,32,102,Low Risk,Medium,Non-Smoker,High,Abnormal,No,Yes,Complications,15,65,44,Ketones Present,2.798,No
+Gestational Diabetes,Positive,Negative,Yes,Absent,22,29,22,Low,Unhealthy,124,235,39,109,Low Risk,Low,Non-Smoker,High,Abnormal,Yes,Yes,Normal,27,70,47,Normal,4.472,Yes
+Secondary Diabetes,Negative,Negative,Yes,Present,19,64,27,Low,Unhealthy,138,186,47,150,Low Risk,Low,Smoker,Moderate,Normal,No,Yes,Normal,38,21,48,Protein Present,4.421,No
+Wolcott-Rallison Syndrome,Negative,Positive,No,Present,12,2,15,High,Healthy,94,177,34,167,High Risk,High,Non-Smoker,Low,Abnormal,Yes,No,Complications,3,24,22,Glucose Present,2.977,Yes
+MODY,Positive,Negative,Yes,Absent,24,13,19,Low,Unhealthy,106,159,35,125,Low Risk,Low,Smoker,Moderate,Normal,Yes,Yes,Complications,8,32,57,Glucose Present,3.66,Yes
+Type 2 Diabetes,Positive,Negative,Yes,Present,48,78,39,Moderate,Healthy,141,218,34,178,High Risk,High,Non-Smoker,Low,Normal,No,Yes,Normal,17,54,99,Normal,3.289,No
+Type 1 Diabetes,Negative,Positive,Yes,Present,15,24,17,Moderate,Unhealthy,101,193,31,149,High Risk,Low,Non-Smoker,High,Abnormal,Yes,No,Complications,8,59,65,Glucose Present,3.368,No
+Prediabetic,Positive,Positive,No,Present,23,45,24,High,Healthy,116,221,32,101,High Risk,Medium,Non-Smoker,High,Normal,Yes,Yes,Normal,21,70,56,Glucose Present,3.398,No
+Wolcott-Rallison Syndrome,Positive,Negative,No,Absent,11,9,15,High,Healthy,100,104,25,238,Low Risk,Medium,Non-Smoker,Low,Normal,Yes,Yes,Complications,1,34,11,Glucose Present,1.96,Yes
+Wolcott-Rallison Syndrome,Negative,Negative,Yes,Absent,18,12,24,High,Unhealthy,91,104,33,187,Low Risk,High,Non-Smoker,Low,Abnormal,Yes,No,Normal,3,29,18,Glucose Present,2.873,Yes
+Wolcott-Rallison Syndrome,Negative,Positive,No,Present,15,6,17,Low,Unhealthy,106,161,33,176,High Risk,Medium,Smoker,High,Abnormal,Yes,No,Complications,2,35,29,Glucose Present,2.427,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,No,Absent,43,46,33,Moderate,Unhealthy,132,258,42,168,Low Risk,Medium,Non-Smoker,Moderate,Abnormal,No,No,Complications,27,37,45,Protein Present,2.658,No
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Negative,No,Absent,29,27,31,Moderate,Unhealthy,90,150,35,167,Low Risk,Low,Non-Smoker,Low,Normal,No,Yes,Complications,12,40,35,Glucose Present,3.615,No
+Neonatal Diabetes Mellitus (NDM),Negative,Positive,Yes,Present,6,0,12,Low,Unhealthy,65,140,25,154,High Risk,Low,Non-Smoker,Moderate,Abnormal,Yes,No,Normal,8,21,28,Ketones Present,2.545,No
+Prediabetic,Positive,Positive,No,Present,28,36,26,Moderate,Healthy,126,222,36,107,High Risk,High,Non-Smoker,High,Normal,Yes,No,Complications,21,67,55,Ketones Present,3.894,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,Yes,Absent,20,57,29,High,Unhealthy,139,180,38,237,Low Risk,High,Smoker,High,Abnormal,No,Yes,Normal,22,67,52,Protein Present,3.108,No
+Gestational Diabetes,Negative,Negative,Yes,Present,18,38,30,Moderate,Healthy,111,169,39,126,Low Risk,High,Non-Smoker,High,Normal,No,Yes,Complications,18,56,60,Normal,3.198,No
+Type 1 Diabetes,Negative,Negative,Yes,Absent,11,9,24,Moderate,Unhealthy,100,185,31,140,High Risk,High,Non-Smoker,Low,Normal,Yes,No,Complications,5,32,60,Protein Present,2.927,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,Yes,Present,24,39,34,Low,Healthy,91,216,28,172,High Risk,Medium,Smoker,High,Abnormal,No,Yes,Normal,21,48,30,Protein Present,3.366,Yes
+LADA,Positive,Positive,Yes,Present,35,32,22,Low,Healthy,107,209,38,135,Low Risk,Low,Smoker,Low,Abnormal,Yes,No,Normal,18,75,68,Glucose Present,2.508,No
+Wolcott-Rallison Syndrome,Positive,Positive,No,Absent,11,2,21,High,Healthy,83,112,32,197,Low Risk,Low,Non-Smoker,Low,Abnormal,No,Yes,Normal,3,24,14,Normal,1.906,No
+Type 1 Diabetes,Negative,Negative,Yes,Present,14,7,19,Moderate,Healthy,94,178,33,105,High Risk,High,Smoker,Low,Abnormal,No,Yes,Complications,24,33,55,Protein Present,3.642,No
+Wolcott-Rallison Syndrome,Positive,Positive,Yes,Absent,10,6,24,High,Healthy,103,173,32,231,High Risk,Medium,Non-Smoker,High,Abnormal,Yes,Yes,Complications,4,11,24,Glucose Present,1.666,Yes
+LADA,Negative,Negative,No,Present,28,50,34,High,Unhealthy,123,180,32,115,High Risk,Low,Non-Smoker,Moderate,Abnormal,No,No,Complications,12,59,44,Glucose Present,3.462,No
+Secondary Diabetes,Positive,Positive,Yes,Present,17,72,34,Low,Healthy,140,196,39,172,Low Risk,High,Non-Smoker,High,Normal,No,No,Normal,20,20,70,Glucose Present,3.032,Yes
+LADA,Negative,Positive,No,Present,25,43,20,High,Unhealthy,121,150,31,123,Low Risk,High,Smoker,Low,Abnormal,No,Yes,Normal,11,61,57,Ketones Present,3.621,Yes
+MODY,Positive,Negative,No,Present,24,14,29,Low,Healthy,95,181,30,98,Low Risk,Medium,Non-Smoker,High,Normal,Yes,No,Complications,12,46,47,Glucose Present,3.972,No
+Secondary Diabetes,Negative,Positive,No,Absent,25,60,34,Low,Unhealthy,144,253,36,222,High Risk,Low,Non-Smoker,High,Normal,No,Yes,Normal,16,69,53,Normal,4.333,Yes
+Type 1 Diabetes,Positive,Positive,No,Absent,9,9,16,Low,Unhealthy,118,160,28,144,High Risk,Low,Smoker,Moderate,Abnormal,No,No,Complications,20,39,33,Protein Present,2.8,Yes
+Secondary Diabetes,Positive,Positive,Yes,Absent,21,71,24,Moderate,Unhealthy,111,276,35,188,High Risk,Low,Non-Smoker,High,Normal,No,Yes,Normal,27,29,53,Glucose Present,3.861,No
+Wolfram Syndrome,Positive,Negative,No,Present,11,6,21,High,Healthy,106,168,34,203,High Risk,Low,Non-Smoker,High,Normal,No,Yes,Complications,2,29,23,Glucose Present,2.256,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,No,Present,6,0,16,Moderate,Healthy,77,135,24,166,Low Risk,Low,Non-Smoker,Moderate,Abnormal,No,No,Complications,7,22,22,Protein Present,1.85,Yes
+Secondary Diabetes,Positive,Positive,Yes,Absent,29,63,22,Low,Unhealthy,125,275,36,151,High Risk,Low,Smoker,High,Normal,No,Yes,Complications,28,73,50,Glucose Present,3.829,No
+Steroid-Induced Diabetes,Negative,Positive,No,Present,25,65,25,High,Unhealthy,127,232,50,220,High Risk,High,Non-Smoker,High,Abnormal,Yes,Yes,Complications,21,48,66,Ketones Present,3.733,Yes
+Secondary Diabetes,Positive,Negative,No,Present,45,58,31,Low,Healthy,123,230,47,216,Low Risk,High,Non-Smoker,Low,Normal,Yes,Yes,Complications,15,78,47,Ketones Present,3.333,Yes
+MODY,Negative,Negative,No,Present,16,27,25,Moderate,Healthy,118,196,33,115,Low Risk,Low,Non-Smoker,High,Normal,No,No,Complications,10,62,36,Ketones Present,2.68,No
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,No,Present,34,10,34,High,Unhealthy,105,212,28,140,Low Risk,Low,Smoker,Low,Normal,No,Yes,Complications,23,62,45,Protein Present,2.633,No
+Wolcott-Rallison Syndrome,Positive,Positive,Yes,Absent,14,9,23,Moderate,Unhealthy,105,157,25,181,Low Risk,Medium,Non-Smoker,Moderate,Abnormal,Yes,No,Complications,2,39,26,Glucose Present,2.368,No
+Gestational Diabetes,Negative,Positive,No,Present,23,29,21,Moderate,Unhealthy,104,219,30,105,Low Risk,High,Non-Smoker,Moderate,Normal,No,Yes,Complications,20,35,49,Normal,3.256,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Negative,No,Present,31,63,25,Moderate,Healthy,130,205,34,236,High Risk,Medium,Non-Smoker,Moderate,Abnormal,Yes,Yes,Normal,18,68,53,Protein Present,2.79,Yes
+Steroid-Induced Diabetes,Negative,Positive,Yes,Absent,27,33,35,Moderate,Healthy,138,259,48,143,High Risk,Medium,Non-Smoker,Moderate,Abnormal,Yes,No,Complications,24,65,47,Glucose Present,3.808,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Positive,Yes,Present,41,44,30,Moderate,Healthy,148,266,35,212,High Risk,Medium,Non-Smoker,Moderate,Normal,Yes,No,Normal,26,21,45,Normal,3.158,No
+Wolcott-Rallison Syndrome,Positive,Positive,No,Absent,17,4,23,High,Unhealthy,106,106,28,194,Low Risk,Low,Non-Smoker,Moderate,Abnormal,No,No,Normal,1,26,26,Glucose Present,2.322,No
+Prediabetic,Negative,Negative,No,Absent,27,47,26,Moderate,Unhealthy,127,184,36,114,High Risk,Low,Non-Smoker,Low,Abnormal,Yes,No,Complications,19,50,55,Normal,3.001,No
+Type 1 Diabetes,Negative,Positive,No,Absent,19,16,20,Moderate,Healthy,101,161,32,142,Low Risk,High,Smoker,Low,Normal,No,Yes,Normal,7,64,64,Glucose Present,3.023,Yes
+Secondary Diabetes,Negative,Negative,No,Absent,10,69,31,High,Healthy,149,184,45,162,Low Risk,Medium,Smoker,High,Abnormal,Yes,Yes,Normal,32,99,70,Normal,2.51,Yes
+Secondary Diabetes,Positive,Positive,No,Absent,32,40,26,High,Unhealthy,126,248,45,246,High Risk,High,Smoker,Moderate,Abnormal,No,Yes,Complications,22,62,59,Glucose Present,3.228,No
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,No,Present,7,0,12,High,Unhealthy,74,150,21,186,Low Risk,Low,Non-Smoker,Low,Abnormal,No,Yes,Complications,8,27,21,Ketones Present,1.672,No
+Gestational Diabetes,Positive,Positive,No,Absent,11,39,27,High,Healthy,116,230,33,134,Low Risk,High,Smoker,Low,Abnormal,No,Yes,Normal,10,58,74,Normal,2.87,No
+Gestational Diabetes,Negative,Negative,No,Present,21,35,32,Moderate,Healthy,125,186,31,117,Low Risk,Low,Non-Smoker,Moderate,Abnormal,No,Yes,Complications,21,66,62,Ketones Present,2.758,Yes
+Steroid-Induced Diabetes,Negative,Negative,Yes,Absent,17,38,35,High,Healthy,135,293,54,187,Low Risk,High,Smoker,Moderate,Abnormal,No,No,Normal,26,29,66,Glucose Present,3.288,No
+Prediabetic,Negative,Negative,Yes,Absent,29,43,24,High,Healthy,122,181,36,115,High Risk,High,Non-Smoker,High,Abnormal,No,Yes,Complications,15,65,51,Normal,3.454,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,Yes,Absent,22,69,28,Moderate,Unhealthy,139,190,49,221,High Risk,Medium,Smoker,High,Abnormal,Yes,Yes,Complications,19,78,54,Ketones Present,3.755,Yes
+LADA,Positive,Positive,Yes,Present,25,55,28,Low,Unhealthy,102,213,30,111,High Risk,Low,Non-Smoker,High,Normal,Yes,No,Complications,12,50,54,Glucose Present,3.514,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,No,Present,11,0,17,High,Unhealthy,69,160,29,121,High Risk,Low,Smoker,Moderate,Normal,Yes,Yes,Normal,5,28,28,Protein Present,2.421,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Positive,Yes,Absent,17,29,21,Low,Unhealthy,93,199,31,109,High Risk,Medium,Smoker,Low,Abnormal,Yes,Yes,Complications,24,47,66,Ketones Present,2.847,No
+Secondary Diabetes,Positive,Negative,Yes,Absent,32,73,27,Low,Unhealthy,119,223,38,160,Low Risk,Medium,Non-Smoker,Moderate,Normal,No,Yes,Normal,39,78,76,Glucose Present,2.582,Yes
+MODY,Negative,Positive,No,Absent,26,23,19,Low,Unhealthy,106,156,29,99,High Risk,Low,Smoker,Low,Abnormal,No,Yes,Complications,11,43,37,Normal,3.41,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,Yes,Absent,28,21,20,Low,Unhealthy,120,204,37,118,High Risk,Low,Smoker,Moderate,Normal,No,Yes,Complications,22,49,55,Protein Present,2.766,Yes
+Gestational Diabetes,Negative,Positive,No,Absent,15,39,22,Moderate,Unhealthy,126,206,33,139,Low Risk,High,Smoker,High,Normal,Yes,Yes,Complications,29,41,63,Ketones Present,3.944,No
+Prediabetic,Negative,Positive,Yes,Present,19,58,27,High,Healthy,129,198,33,121,Low Risk,Medium,Non-Smoker,High,Normal,No,Yes,Normal,18,44,64,Ketones Present,3.541,Yes
+Type 1 Diabetes,Negative,Positive,No,Present,12,27,21,High,Unhealthy,90,176,33,114,Low Risk,High,Non-Smoker,Low,Normal,Yes,Yes,Normal,8,39,60,Normal,3.841,Yes
+Type 2 Diabetes,Negative,Positive,No,Present,36,56,36,High,Unhealthy,144,250,48,176,High Risk,Low,Non-Smoker,Moderate,Abnormal,Yes,No,Normal,20,30,72,Normal,3.709,No
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,No,Present,27,31,24,Low,Healthy,121,204,38,167,Low Risk,Medium,Non-Smoker,Moderate,Normal,No,No,Normal,11,66,63,Glucose Present,3.24,Yes
+Type 2 Diabetes,Negative,Positive,No,Absent,27,55,31,High,Unhealthy,115,255,47,182,Low Risk,Medium,Non-Smoker,Low,Normal,Yes,Yes,Normal,36,20,41,Ketones Present,3.569,No
+Wolfram Syndrome,Negative,Positive,Yes,Present,14,13,18,High,Unhealthy,109,105,32,248,Low Risk,High,Smoker,Low,Abnormal,Yes,Yes,Complications,2,38,12,Protein Present,2.066,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,Yes,Absent,45,68,29,Moderate,Healthy,144,181,49,228,Low Risk,Low,Smoker,Moderate,Normal,No,Yes,Normal,17,41,58,Glucose Present,2.647,No
+Secondary Diabetes,Negative,Positive,No,Present,27,45,34,Low,Healthy,121,213,48,172,Low Risk,Low,Smoker,Moderate,Normal,No,No,Complications,36,78,60,Glucose Present,3.917,Yes
+Type 1 Diabetes,Negative,Positive,Yes,Present,6,27,24,Low,Healthy,103,194,29,123,High Risk,High,Non-Smoker,Moderate,Abnormal,No,Yes,Complications,9,48,56,Normal,3.356,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,Yes,Absent,8,1,19,Low,Unhealthy,78,178,28,126,Low Risk,Medium,Smoker,High,Normal,No,Yes,Normal,8,14,12,Glucose Present,2.301,Yes
+Secondary Diabetes,Positive,Negative,No,Present,40,43,25,Moderate,Unhealthy,133,192,35,157,High Risk,Low,Non-Smoker,High,Abnormal,Yes,Yes,Normal,26,43,42,Glucose Present,3.841,No
+Gestational Diabetes,Negative,Positive,No,Present,11,21,23,Low,Healthy,112,216,41,103,Low Risk,Medium,Smoker,Low,Abnormal,Yes,No,Normal,10,47,42,Ketones Present,3.754,No
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Positive,Yes,Present,26,32,27,Moderate,Unhealthy,95,187,36,124,Low Risk,Medium,Smoker,Low,Abnormal,No,No,Complications,23,48,40,Glucose Present,3.197,No
+Steroid-Induced Diabetes,Negative,Negative,Yes,Absent,26,61,37,Moderate,Unhealthy,118,289,54,201,High Risk,Low,Non-Smoker,Low,Abnormal,Yes,No,Normal,24,68,65,Protein Present,3.279,No
+Prediabetic,Negative,Negative,Yes,Present,18,48,27,Low,Healthy,113,211,37,119,Low Risk,High,Smoker,Moderate,Abnormal,Yes,No,Complications,13,72,50,Ketones Present,3.174,No
+Type 2 Diabetes,Positive,Negative,Yes,Present,35,42,26,Moderate,Healthy,112,248,40,167,Low Risk,Low,Non-Smoker,High,Normal,Yes,Yes,Normal,19,44,58,Protein Present,2.654,Yes
+Wolfram Syndrome,Negative,Positive,Yes,Absent,18,6,18,Moderate,Unhealthy,99,163,32,264,High Risk,Low,Smoker,Moderate,Normal,No,Yes,Normal,3,19,29,Normal,1.761,Yes
+Secondary Diabetes,Positive,Negative,Yes,Absent,34,48,34,Moderate,Unhealthy,147,217,44,246,Low Risk,Low,Smoker,Moderate,Abnormal,No,Yes,Normal,21,34,70,Glucose Present,3.931,Yes
+Steroid-Induced Diabetes,Negative,Negative,Yes,Absent,41,66,24,Low,Unhealthy,129,269,46,138,Low Risk,Low,Smoker,Low,Abnormal,No,No,Complications,28,33,50,Protein Present,4.354,Yes
+Gestational Diabetes,Negative,Negative,No,Absent,21,28,24,Low,Healthy,129,185,36,94,Low Risk,Low,Non-Smoker,Low,Normal,No,No,Complications,20,40,36,Protein Present,3.902,No
+Type 2 Diabetes,Negative,Positive,Yes,Absent,20,32,35,Low,Healthy,123,282,44,184,Low Risk,Low,Non-Smoker,Moderate,Normal,No,No,Complications,20,72,92,Glucose Present,3.439,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,Yes,Absent,5,1,18,Moderate,Unhealthy,71,161,24,132,High Risk,Low,Smoker,High,Abnormal,No,Yes,Complications,4,27,21,Normal,2.204,Yes
+Secondary Diabetes,Positive,Positive,Yes,Present,15,52,23,Low,Unhealthy,149,296,34,226,High Risk,Medium,Smoker,High,Normal,Yes,No,Normal,36,84,41,Normal,3.049,Yes
+Type 2 Diabetes,Negative,Negative,No,Present,48,60,27,Moderate,Healthy,111,213,44,188,Low Risk,Low,Smoker,Low,Abnormal,No,No,Complications,28,48,51,Normal,3.973,No
+Type 2 Diabetes,Negative,Negative,Yes,Present,47,43,27,High,Healthy,138,282,41,138,High Risk,Medium,Non-Smoker,High,Normal,Yes,No,Normal,32,72,48,Glucose Present,2.642,No
+MODY,Negative,Positive,No,Absent,25,13,20,High,Unhealthy,94,193,33,80,High Risk,Low,Smoker,Low,Normal,Yes,No,Normal,11,41,52,Ketones Present,2.65,Yes
+Wolfram Syndrome,Negative,Positive,No,Absent,16,8,16,Moderate,Unhealthy,83,107,33,241,Low Risk,High,Non-Smoker,Moderate,Abnormal,Yes,Yes,Normal,1,25,28,Normal,1.586,Yes
+Secondary Diabetes,Negative,Positive,Yes,Present,42,57,22,High,Unhealthy,132,289,40,183,High Risk,Medium,Smoker,High,Abnormal,Yes,No,Normal,31,59,72,Protein Present,3.33,Yes
+Wolcott-Rallison Syndrome,Positive,Positive,No,Absent,6,2,23,Moderate,Healthy,81,140,26,244,Low Risk,Medium,Smoker,Moderate,Normal,Yes,Yes,Complications,3,23,11,Glucose Present,1.905,Yes
+Gestational Diabetes,Positive,Positive,Yes,Present,26,21,20,Low,Unhealthy,109,206,33,124,High Risk,High,Non-Smoker,High,Normal,Yes,Yes,Complications,17,38,43,Ketones Present,2.648,Yes
+Secondary Diabetes,Positive,Negative,Yes,Present,27,68,26,High,Healthy,125,193,39,167,High Risk,Medium,Smoker,High,Abnormal,No,No,Normal,35,60,70,Normal,2.525,Yes
+LADA,Negative,Positive,No,Present,35,57,27,High,Unhealthy,123,201,44,122,High Risk,Low,Smoker,Moderate,Normal,Yes,Yes,Complications,12,59,36,Normal,3.579,Yes
+Steroid-Induced Diabetes,Negative,Negative,No,Present,40,32,26,Moderate,Healthy,114,226,37,197,High Risk,Medium,Non-Smoker,High,Normal,Yes,No,Complications,20,68,61,Protein Present,4.265,No
+MODY,Negative,Positive,Yes,Present,14,14,25,Low,Unhealthy,94,189,30,109,Low Risk,Medium,Non-Smoker,High,Abnormal,Yes,No,Complications,13,49,67,Protein Present,3.562,Yes
+LADA,Negative,Negative,No,Absent,28,54,28,Low,Unhealthy,118,197,38,113,High Risk,High,Non-Smoker,Moderate,Normal,No,Yes,Complications,7,44,37,Normal,3.556,Yes
+Prediabetic,Positive,Positive,Yes,Absent,19,46,28,Moderate,Healthy,113,216,35,110,Low Risk,Medium,Non-Smoker,High,Abnormal,No,No,Complications,21,37,60,Glucose Present,3.502,Yes
+Prediabetic,Positive,Positive,Yes,Present,23,55,24,Moderate,Healthy,115,202,39,101,Low Risk,Medium,Smoker,Low,Abnormal,Yes,Yes,Normal,27,50,75,Protein Present,3.316,No
+Prediabetic,Positive,Negative,No,Present,21,47,27,Moderate,Healthy,114,225,39,100,Low Risk,Low,Non-Smoker,Low,Abnormal,No,No,Normal,25,56,76,Protein Present,3.068,No
+Prediabetic,Positive,Negative,Yes,Absent,16,57,24,Low,Healthy,113,221,33,123,Low Risk,High,Smoker,Moderate,Abnormal,Yes,Yes,Normal,10,50,66,Glucose Present,3.569,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,Yes,Absent,7,0,16,Low,Healthy,62,130,24,137,High Risk,High,Non-Smoker,High,Abnormal,No,No,Complications,9,18,23,Normal,1.647,Yes
+Gestational Diabetes,Negative,Positive,Yes,Absent,27,38,25,High,Healthy,110,192,32,94,Low Risk,Medium,Smoker,High,Normal,No,No,Normal,11,64,52,Protein Present,4.426,No
+MODY,Positive,Positive,Yes,Absent,28,12,27,Moderate,Healthy,107,165,35,117,High Risk,Medium,Non-Smoker,High,Normal,Yes,Yes,Normal,12,70,50,Glucose Present,3.09,No
+Secondary Diabetes,Negative,Positive,Yes,Present,22,72,34,Low,Unhealthy,145,247,44,159,High Risk,Low,Non-Smoker,Low,Abnormal,Yes,Yes,Complications,36,47,41,Protein Present,4.176,No
+Prediabetic,Positive,Negative,Yes,Present,21,51,26,Low,Unhealthy,116,233,33,110,High Risk,High,Non-Smoker,Low,Normal,No,Yes,Complications,11,43,44,Glucose Present,3.044,Yes
+Prediabetic,Negative,Negative,Yes,Present,26,51,28,High,Healthy,125,212,38,100,Low Risk,Medium,Smoker,High,Abnormal,No,Yes,Complications,20,39,48,Protein Present,2.597,No
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Negative,Yes,Absent,15,17,27,Moderate,Unhealthy,107,217,33,108,High Risk,High,Smoker,Low,Abnormal,No,Yes,Complications,18,38,71,Ketones Present,2.824,No
+Prediabetic,Positive,Negative,Yes,Present,11,33,24,Low,Healthy,125,231,33,104,Low Risk,High,Non-Smoker,Low,Abnormal,Yes,No,Normal,13,49,44,Glucose Present,3.543,No
+Steroid-Induced Diabetes,Negative,Negative,No,Present,33,58,32,High,Unhealthy,117,208,43,165,High Risk,Low,Non-Smoker,Low,Normal,Yes,No,Complications,27,35,57,Protein Present,2.885,No
+Prediabetic,Negative,Positive,No,Absent,26,50,28,Low,Healthy,127,195,36,111,High Risk,High,Smoker,High,Abnormal,No,Yes,Normal,19,61,73,Glucose Present,2.518,Yes
+Wolcott-Rallison Syndrome,Positive,Positive,Yes,Present,7,5,18,Moderate,Healthy,96,146,30,187,High Risk,High,Smoker,Low,Abnormal,Yes,No,Complications,2,33,20,Protein Present,2.528,Yes
+Secondary Diabetes,Positive,Negative,No,Present,39,45,29,Low,Unhealthy,117,191,47,196,Low Risk,Medium,Smoker,High,Abnormal,Yes,Yes,Complications,17,22,55,Ketones Present,2.594,No
+Type 1 Diabetes,Positive,Negative,No,Present,11,16,24,High,Healthy,97,153,33,142,High Risk,Low,Smoker,Moderate,Normal,Yes,Yes,Complications,9,31,68,Glucose Present,2.578,No
+Type 2 Diabetes,Positive,Negative,No,Present,20,45,26,Low,Healthy,131,239,48,166,High Risk,Medium,Non-Smoker,Low,Abnormal,No,No,Normal,34,34,84,Ketones Present,2.666,No
+Wolcott-Rallison Syndrome,Negative,Positive,Yes,Absent,7,10,24,Low,Unhealthy,84,134,33,226,Low Risk,Low,Smoker,Moderate,Abnormal,No,Yes,Normal,1,20,20,Ketones Present,2.435,No
+Type 2 Diabetes,Negative,Negative,Yes,Present,43,39,37,Moderate,Healthy,123,285,37,174,High Risk,Low,Smoker,Low,Abnormal,Yes,Yes,Normal,36,61,81,Protein Present,2.524,Yes
+Type 2 Diabetes,Negative,Negative,Yes,Absent,42,43,34,Low,Unhealthy,141,264,47,176,High Risk,High,Non-Smoker,Low,Abnormal,Yes,Yes,Normal,15,20,97,Glucose Present,3.809,No
+Type 1 Diabetes,Negative,Negative,Yes,Present,6,29,18,High,Healthy,104,155,28,100,High Risk,High,Smoker,High,Normal,Yes,Yes,Normal,12,70,65,Glucose Present,3.686,Yes
+Gestational Diabetes,Negative,Negative,No,Absent,11,22,20,Low,Healthy,101,198,33,133,High Risk,High,Smoker,Moderate,Abnormal,No,No,Normal,17,49,71,Ketones Present,3.924,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Negative,Yes,Absent,6,1,16,Moderate,Healthy,64,153,22,165,High Risk,Low,Non-Smoker,High,Normal,No,No,Normal,5,35,23,Glucose Present,2.47,No
+Prediabetic,Positive,Negative,Yes,Present,15,39,28,High,Unhealthy,116,218,35,108,High Risk,Medium,Smoker,Moderate,Abnormal,No,No,Complications,13,32,43,Glucose Present,2.988,Yes
+Wolfram Syndrome,Negative,Positive,Yes,Present,18,16,15,High,Unhealthy,99,122,30,212,High Risk,Medium,Smoker,High,Normal,No,Yes,Complications,1,23,11,Ketones Present,2.44,Yes
+Type 1 Diabetes,Negative,Positive,No,Absent,12,15,24,High,Healthy,117,167,32,148,High Risk,High,Non-Smoker,High,Abnormal,No,No,Complications,24,46,47,Normal,3.744,No
+Wolfram Syndrome,Negative,Negative,Yes,Present,19,15,15,Moderate,Unhealthy,103,176,26,219,High Risk,Medium,Non-Smoker,High,Abnormal,Yes,No,Complications,4,25,11,Protein Present,1.512,Yes
+Secondary Diabetes,Negative,Negative,Yes,Present,18,67,29,Moderate,Healthy,122,228,39,182,High Risk,High,Smoker,Low,Abnormal,Yes,No,Normal,33,47,42,Ketones Present,4.041,Yes
+Secondary Diabetes,Positive,Positive,No,Present,21,56,22,Low,Unhealthy,141,296,46,205,Low Risk,Medium,Smoker,High,Normal,No,No,Complications,34,40,71,Glucose Present,3.621,Yes
+LADA,Positive,Positive,Yes,Absent,26,51,23,High,Unhealthy,123,237,41,123,High Risk,High,Smoker,Low,Abnormal,Yes,Yes,Complications,18,65,47,Protein Present,3.116,No
+Gestational Diabetes,Negative,Negative,No,Present,12,20,32,High,Healthy,121,226,31,113,High Risk,Medium,Non-Smoker,High,Abnormal,No,No,Normal,20,43,46,Normal,3.82,No
+LADA,Negative,Positive,Yes,Absent,25,58,21,High,Unhealthy,115,168,30,111,Low Risk,Medium,Non-Smoker,High,Abnormal,No,No,Normal,10,52,41,Normal,3.138,Yes
+MODY,Positive,Negative,No,Present,14,20,18,Moderate,Unhealthy,117,176,29,132,High Risk,Medium,Smoker,High,Abnormal,Yes,Yes,Complications,17,43,65,Protein Present,2.994,Yes
+Type 1 Diabetes,Negative,Positive,Yes,Absent,18,15,19,Moderate,Healthy,91,189,32,103,Low Risk,High,Smoker,Low,Normal,No,No,Complications,5,44,51,Ketones Present,2.506,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,No,Absent,12,0,18,Moderate,Unhealthy,72,130,21,176,High Risk,High,Non-Smoker,Moderate,Abnormal,Yes,Yes,Normal,6,22,28,Protein Present,2.463,Yes
+Prediabetic,Positive,Negative,Yes,Present,16,36,27,High,Unhealthy,122,206,34,124,Low Risk,Medium,Smoker,High,Abnormal,Yes,Yes,Normal,27,48,53,Glucose Present,2.911,Yes
+MODY,Positive,Positive,Yes,Absent,21,16,19,Moderate,Healthy,118,185,33,83,Low Risk,Medium,Non-Smoker,High,Normal,Yes,Yes,Complications,14,78,58,Glucose Present,3.558,Yes
+Type 1 Diabetes,Negative,Positive,Yes,Absent,19,23,16,Moderate,Unhealthy,109,199,31,124,High Risk,Medium,Smoker,High,Abnormal,No,Yes,Complications,10,61,44,Glucose Present,3.324,No
+Steroid-Induced Diabetes,Positive,Positive,No,Absent,42,55,24,High,Healthy,141,278,47,176,High Risk,High,Smoker,Moderate,Abnormal,No,No,Complications,15,26,59,Glucose Present,4.176,No
+Wolfram Syndrome,Positive,Negative,Yes,Present,18,10,15,Low,Healthy,85,158,25,262,Low Risk,High,Smoker,High,Abnormal,No,Yes,Complications,3,37,27,Ketones Present,2.277,Yes
+Prediabetic,Positive,Negative,No,Absent,12,32,28,Moderate,Unhealthy,118,193,38,120,Low Risk,Medium,Non-Smoker,Low,Normal,No,No,Normal,12,58,74,Ketones Present,2.648,Yes
+LADA,Positive,Positive,No,Absent,14,35,22,Moderate,Unhealthy,125,155,34,135,Low Risk,High,Non-Smoker,Moderate,Abnormal,Yes,No,Normal,7,75,42,Protein Present,2.778,No
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,No,Present,9,1,13,High,Healthy,74,141,28,126,High Risk,Low,Non-Smoker,High,Abnormal,No,Yes,Complications,4,30,27,Glucose Present,2.181,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Negative,Yes,Present,8,0,18,Low,Unhealthy,67,145,24,142,High Risk,Medium,Non-Smoker,Low,Normal,Yes,Yes,Complications,3,30,27,Protein Present,2.509,No
+Type 2 Diabetes,Positive,Negative,Yes,Absent,14,38,28,Low,Healthy,121,276,47,174,High Risk,High,Non-Smoker,High,Abnormal,Yes,No,Complications,36,62,80,Glucose Present,3.661,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Negative,Yes,Absent,41,40,33,Moderate,Unhealthy,127,239,48,157,High Risk,Medium,Smoker,High,Abnormal,Yes,Yes,Complications,23,74,66,Ketones Present,3.622,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Negative,Yes,Absent,20,55,28,Moderate,Healthy,137,202,37,237,Low Risk,Medium,Non-Smoker,High,Abnormal,Yes,Yes,Complications,15,33,42,Glucose Present,4.047,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Positive,No,Present,28,65,31,High,Healthy,130,211,36,170,Low Risk,Medium,Smoker,Moderate,Abnormal,No,No,Normal,23,59,68,Ketones Present,3.557,No
+Wolfram Syndrome,Negative,Positive,Yes,Absent,10,19,17,Low,Unhealthy,109,158,30,269,Low Risk,High,Smoker,Low,Normal,Yes,No,Normal,3,26,14,Normal,1.529,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Negative,Yes,Present,36,41,31,Low,Healthy,149,190,45,196,Low Risk,High,Non-Smoker,Low,Normal,No,No,Complications,15,71,52,Normal,3.254,No
+Wolfram Syndrome,Negative,Positive,No,Absent,14,18,21,High,Unhealthy,109,179,34,256,High Risk,Medium,Smoker,High,Normal,No,No,Complications,0,34,19,Glucose Present,1.935,Yes
+LADA,Positive,Negative,No,Present,26,33,30,Low,Unhealthy,100,209,33,136,Low Risk,Low,Smoker,High,Normal,Yes,Yes,Normal,9,45,55,Normal,3.442,No
+Gestational Diabetes,Negative,Negative,No,Present,19,37,31,High,Unhealthy,107,223,32,105,Low Risk,Medium,Smoker,High,Normal,No,Yes,Normal,17,37,42,Protein Present,4.003,No
+Wolcott-Rallison Syndrome,Negative,Negative,Yes,Present,11,5,20,High,Healthy,107,169,25,224,Low Risk,Medium,Non-Smoker,Low,Normal,Yes,Yes,Complications,1,25,21,Ketones Present,2.759,No
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Negative,No,Present,34,26,34,Moderate,Healthy,111,183,31,128,High Risk,Low,Smoker,Moderate,Abnormal,No,No,Normal,16,44,79,Ketones Present,3.678,No
+Type 2 Diabetes,Negative,Negative,No,Present,28,62,32,High,Healthy,136,282,44,146,Low Risk,High,Smoker,High,Normal,Yes,No,Normal,31,78,98,Glucose Present,3.863,Yes
+Type 1 Diabetes,Negative,Negative,Yes,Present,12,13,24,Moderate,Healthy,111,182,32,109,Low Risk,Medium,Smoker,High,Normal,Yes,Yes,Complications,18,32,63,Protein Present,2.562,Yes
+Prediabetic,Positive,Negative,No,Absent,14,46,24,High,Unhealthy,120,184,32,119,Low Risk,Medium,Smoker,Moderate,Normal,No,No,Complications,14,43,51,Ketones Present,2.537,Yes
+Type 1 Diabetes,Positive,Negative,No,Absent,6,7,20,Low,Healthy,92,198,29,122,Low Risk,High,Smoker,Low,Normal,No,No,Normal,24,50,41,Glucose Present,3.506,No
+LADA,Negative,Negative,Yes,Present,21,55,34,Low,Healthy,103,184,36,109,Low Risk,High,Non-Smoker,High,Abnormal,No,No,Complications,8,69,65,Normal,3.511,No
+LADA,Positive,Negative,No,Absent,16,55,27,High,Healthy,109,230,44,151,Low Risk,Low,Smoker,High,Abnormal,No,No,Complications,17,78,68,Protein Present,3.036,No
+Type 1 Diabetes,Positive,Negative,Yes,Present,7,10,20,Low,Healthy,91,175,33,119,Low Risk,Low,Smoker,Moderate,Abnormal,Yes,No,Normal,9,64,40,Protein Present,3.992,No
+Prediabetic,Positive,Negative,No,Absent,11,35,27,Moderate,Healthy,110,218,38,123,High Risk,Low,Smoker,Low,Abnormal,No,Yes,Complications,16,63,47,Normal,3.409,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Positive,Yes,Present,36,49,26,Low,Healthy,145,186,36,206,High Risk,Medium,Smoker,Moderate,Normal,No,Yes,Normal,26,63,46,Protein Present,4.109,No
+Steroid-Induced Diabetes,Negative,Negative,No,Present,43,55,31,Low,Unhealthy,110,296,45,237,High Risk,Medium,Non-Smoker,Low,Abnormal,Yes,Yes,Complications,19,57,39,Ketones Present,2.881,No
+Wolcott-Rallison Syndrome,Positive,Negative,Yes,Present,8,12,15,Moderate,Unhealthy,91,105,30,158,Low Risk,Medium,Smoker,Moderate,Normal,Yes,Yes,Complications,1,24,15,Protein Present,2.663,No
+Type 2 Diabetes,Positive,Negative,Yes,Present,17,55,37,High,Healthy,149,278,35,178,Low Risk,Medium,Smoker,Moderate,Abnormal,Yes,No,Normal,22,37,65,Protein Present,2.757,Yes
+Wolcott-Rallison Syndrome,Positive,Negative,No,Present,9,10,15,High,Healthy,99,102,26,187,High Risk,High,Non-Smoker,Low,Abnormal,No,No,Normal,2,22,17,Glucose Present,1.908,Yes
+Type 1 Diabetes,Negative,Negative,No,Absent,11,10,18,High,Unhealthy,108,178,31,106,High Risk,Low,Non-Smoker,Moderate,Abnormal,Yes,Yes,Complications,11,45,31,Protein Present,2.677,No
+Steroid-Induced Diabetes,Positive,Positive,Yes,Absent,42,53,33,Low,Healthy,141,211,48,203,Low Risk,Low,Smoker,High,Abnormal,No,Yes,Normal,27,29,41,Ketones Present,4.391,No
+Wolcott-Rallison Syndrome,Negative,Negative,No,Present,16,3,17,Low,Healthy,87,164,27,230,Low Risk,Medium,Non-Smoker,High,Normal,Yes,Yes,Complications,1,33,12,Normal,2.179,No
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Negative,Yes,Absent,25,36,30,High,Unhealthy,113,174,30,138,Low Risk,Medium,Smoker,Low,Abnormal,Yes,No,Complications,10,35,77,Normal,2.997,No
+Type 1 Diabetes,Positive,Positive,Yes,Present,19,21,23,Low,Healthy,93,196,30,120,High Risk,Low,Smoker,Low,Abnormal,Yes,No,Normal,22,77,65,Protein Present,3.657,No
+MODY,Negative,Negative,Yes,Absent,17,25,23,Low,Healthy,113,196,28,118,High Risk,Low,Non-Smoker,High,Normal,No,No,Complications,6,64,40,Normal,3.056,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,Yes,Absent,12,0,17,Moderate,Unhealthy,72,122,27,132,Low Risk,Low,Smoker,Moderate,Abnormal,No,Yes,Normal,8,10,15,Ketones Present,1.57,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,Yes,Absent,27,17,33,Moderate,Healthy,97,192,34,115,Low Risk,Medium,Non-Smoker,Low,Abnormal,Yes,No,Complications,15,59,31,Ketones Present,2.797,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Positive,No,Absent,10,0,18,High,Healthy,60,175,27,179,High Risk,Medium,Smoker,High,Normal,No,Yes,Complications,0,22,18,Glucose Present,1.826,No
+MODY,Negative,Negative,Yes,Present,25,18,27,Low,Healthy,116,172,30,83,Low Risk,Low,Smoker,Low,Normal,No,No,Complications,14,77,65,Ketones Present,3.874,No
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Negative,No,Absent,25,17,29,Low,Unhealthy,102,219,32,102,Low Risk,High,Smoker,Moderate,Normal,Yes,No,Complications,20,33,75,Normal,2.673,Yes
+Type 2 Diabetes,Positive,Negative,Yes,Present,11,72,28,Moderate,Unhealthy,124,252,48,147,Low Risk,Low,Non-Smoker,Moderate,Normal,Yes,No,Normal,21,30,81,Ketones Present,4.316,No
+MODY,Positive,Negative,No,Present,20,25,19,High,Healthy,105,189,28,117,Low Risk,Medium,Non-Smoker,High,Abnormal,No,No,Complications,8,37,34,Ketones Present,3.48,Yes
+MODY,Negative,Positive,Yes,Present,20,24,22,Moderate,Healthy,111,168,34,138,High Risk,High,Non-Smoker,Low,Abnormal,Yes,No,Complications,10,40,32,Ketones Present,2.772,No
+Neonatal Diabetes Mellitus (NDM),Negative,Positive,No,Present,5,0,12,Moderate,Healthy,60,148,21,178,Low Risk,High,Smoker,Moderate,Abnormal,Yes,Yes,Normal,4,23,24,Normal,2.756,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,No,Absent,12,1,18,Moderate,Unhealthy,60,121,21,174,Low Risk,Low,Smoker,Moderate,Normal,No,No,Complications,9,13,14,Glucose Present,2.017,No
+Steroid-Induced Diabetes,Negative,Negative,No,Present,33,42,29,Moderate,Healthy,112,290,45,188,Low Risk,Medium,Smoker,High,Abnormal,Yes,Yes,Normal,15,39,41,Glucose Present,3.884,Yes
+Steroid-Induced Diabetes,Negative,Positive,Yes,Absent,21,68,23,Low,Unhealthy,144,256,37,216,Low Risk,High,Smoker,Low,Abnormal,No,No,Normal,17,28,50,Glucose Present,3.939,No
+Type 1 Diabetes,Negative,Positive,No,Absent,6,9,16,Moderate,Unhealthy,100,199,30,109,High Risk,High,Non-Smoker,Moderate,Abnormal,Yes,No,Complications,14,41,42,Normal,2.614,Yes
+LADA,Negative,Positive,No,Absent,19,59,32,Low,Unhealthy,102,151,32,122,Low Risk,Medium,Smoker,High,Normal,Yes,Yes,Normal,13,40,52,Glucose Present,3.879,No
+Gestational Diabetes,Positive,Positive,No,Absent,19,33,28,High,Unhealthy,117,175,36,126,High Risk,Low,Non-Smoker,Moderate,Abnormal,No,No,Normal,12,79,47,Protein Present,4.286,Yes
+Type 1 Diabetes,Negative,Positive,No,Present,13,24,23,High,Unhealthy,98,196,28,102,High Risk,Medium,Non-Smoker,High,Normal,No,Yes,Normal,22,69,44,Ketones Present,2.864,No
+Type 2 Diabetes,Positive,Positive,Yes,Present,25,50,37,Low,Healthy,145,279,35,182,High Risk,High,Non-Smoker,Moderate,Abnormal,Yes,Yes,Normal,25,90,45,Glucose Present,3.565,No
+Prediabetic,Negative,Negative,Yes,Absent,10,45,25,High,Healthy,118,201,38,110,High Risk,High,Non-Smoker,High,Normal,Yes,Yes,Normal,13,39,72,Normal,2.796,Yes
+Steroid-Induced Diabetes,Positive,Positive,Yes,Absent,45,65,26,Low,Unhealthy,118,258,40,147,Low Risk,High,Smoker,High,Normal,No,No,Complications,16,46,44,Ketones Present,2.716,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,No,Absent,11,0,12,Moderate,Unhealthy,64,168,28,155,Low Risk,Medium,Smoker,Moderate,Normal,Yes,No,Normal,4,32,29,Ketones Present,2.933,Yes
+Prediabetic,Positive,Negative,No,Absent,15,49,28,Low,Healthy,123,233,36,122,High Risk,High,Non-Smoker,High,Normal,Yes,Yes,Normal,24,43,64,Protein Present,3.49,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Negative,Yes,Present,6,0,17,Moderate,Healthy,61,169,24,193,Low Risk,High,Non-Smoker,High,Normal,Yes,Yes,Normal,9,24,27,Glucose Present,2.087,Yes
+Gestational Diabetes,Negative,Positive,Yes,Absent,20,39,27,High,Unhealthy,124,215,41,96,High Risk,Medium,Smoker,High,Normal,No,No,Normal,15,37,62,Ketones Present,3.072,Yes
+MODY,Positive,Negative,No,Absent,29,19,19,High,Unhealthy,95,181,28,138,Low Risk,Medium,Smoker,Moderate,Abnormal,Yes,Yes,Normal,13,59,51,Glucose Present,2.868,No
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,Yes,Present,6,1,19,Low,Unhealthy,74,152,23,140,Low Risk,Low,Non-Smoker,Moderate,Normal,No,Yes,Complications,1,31,11,Glucose Present,1.525,Yes
+Prediabetic,Positive,Positive,Yes,Absent,28,54,24,Low,Unhealthy,117,191,35,120,High Risk,Low,Non-Smoker,Low,Normal,No,No,Normal,15,77,50,Glucose Present,3.114,No
+Prediabetic,Positive,Positive,Yes,Absent,28,41,26,Moderate,Unhealthy,125,195,36,121,High Risk,Medium,Non-Smoker,Moderate,Normal,No,Yes,Complications,28,79,62,Glucose Present,3.39,No
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,Yes,Absent,30,13,19,Moderate,Unhealthy,108,160,30,178,Low Risk,Low,Non-Smoker,Moderate,Normal,Yes,No,Normal,20,33,69,Ketones Present,3.464,No
+Prediabetic,Negative,Negative,No,Present,28,44,24,High,Healthy,124,237,37,102,High Risk,High,Smoker,Moderate,Normal,No,No,Complications,18,79,51,Protein Present,2.557,No
+Wolfram Syndrome,Positive,Negative,No,Absent,15,12,15,Moderate,Unhealthy,89,105,29,218,Low Risk,Medium,Smoker,High,Normal,Yes,No,Complications,1,22,24,Glucose Present,2.046,No
+LADA,Positive,Positive,No,Present,25,54,20,High,Unhealthy,111,200,30,143,High Risk,Low,Non-Smoker,High,Normal,Yes,No,Complications,12,42,56,Protein Present,2.696,Yes
+Secondary Diabetes,Negative,Negative,No,Absent,34,75,31,Moderate,Healthy,126,230,34,203,High Risk,Medium,Non-Smoker,High,Abnormal,No,Yes,Normal,33,46,40,Normal,4.28,Yes
+MODY,Negative,Negative,Yes,Absent,15,12,19,High,Healthy,106,161,32,128,Low Risk,Low,Smoker,Moderate,Abnormal,No,Yes,Complications,15,53,30,Normal,3.715,No
+Wolfram Syndrome,Positive,Positive,No,Present,17,19,21,High,Unhealthy,81,158,32,272,High Risk,Medium,Smoker,Low,Abnormal,No,No,Complications,1,36,10,Ketones Present,2.076,Yes
+Wolcott-Rallison Syndrome,Positive,Negative,Yes,Absent,6,11,22,Low,Healthy,100,174,30,163,High Risk,Low,Non-Smoker,Low,Normal,No,Yes,Complications,3,30,28,Normal,2.873,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Negative,No,Absent,35,44,33,Low,Unhealthy,132,188,45,173,High Risk,High,Smoker,High,Normal,No,Yes,Normal,25,35,64,Normal,4.011,No
+Type 2 Diabetes,Negative,Positive,Yes,Present,23,66,34,Low,Healthy,118,231,36,193,Low Risk,Low,Smoker,High,Abnormal,Yes,Yes,Normal,38,80,86,Protein Present,3.845,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Negative,No,Present,21,60,33,Low,Healthy,137,209,48,196,High Risk,Low,Smoker,Moderate,Normal,No,No,Normal,19,35,61,Ketones Present,2.825,No
+Secondary Diabetes,Positive,Negative,Yes,Absent,27,69,26,Low,Unhealthy,117,271,44,171,Low Risk,High,Non-Smoker,Low,Normal,No,Yes,Complications,20,40,50,Ketones Present,4.067,No
+Gestational Diabetes,Positive,Negative,Yes,Present,19,33,22,Low,Healthy,103,182,30,113,Low Risk,High,Non-Smoker,Low,Normal,No,Yes,Complications,12,35,42,Protein Present,3.563,No
+Secondary Diabetes,Positive,Negative,Yes,Present,36,49,31,High,Unhealthy,143,263,36,219,High Risk,Low,Smoker,High,Abnormal,Yes,Yes,Normal,32,76,59,Protein Present,2.566,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,No,Absent,5,0,13,Low,Unhealthy,73,171,25,172,Low Risk,Low,Smoker,High,Abnormal,Yes,No,Normal,5,20,13,Normal,2.375,Yes
+Gestational Diabetes,Positive,Positive,Yes,Present,16,27,25,Moderate,Unhealthy,111,233,38,90,Low Risk,High,Smoker,Moderate,Normal,Yes,No,Complications,27,42,63,Glucose Present,2.908,Yes
+MODY,Positive,Positive,No,Present,21,18,27,High,Healthy,113,171,28,123,High Risk,Medium,Non-Smoker,High,Normal,No,Yes,Normal,13,36,35,Normal,3.442,No
+MODY,Positive,Positive,No,Absent,15,16,27,Low,Healthy,109,157,32,115,High Risk,High,Smoker,High,Normal,Yes,No,Normal,16,70,40,Protein Present,2.702,No
+Gestational Diabetes,Negative,Positive,Yes,Absent,26,37,34,Low,Unhealthy,120,203,34,116,Low Risk,High,Smoker,Low,Abnormal,No,No,Complications,24,42,46,Ketones Present,4.09,No
+Gestational Diabetes,Negative,Negative,No,Absent,26,39,23,Low,Unhealthy,101,216,40,112,Low Risk,Low,Smoker,Low,Abnormal,Yes,No,Complications,24,34,70,Glucose Present,4.187,Yes
+Prediabetic,Positive,Negative,No,Absent,22,31,28,High,Healthy,127,205,35,102,High Risk,Medium,Non-Smoker,High,Normal,Yes,No,Normal,29,43,49,Glucose Present,2.611,No
+Gestational Diabetes,Negative,Positive,No,Present,28,30,29,Low,Unhealthy,102,203,40,95,High Risk,Medium,Smoker,Low,Normal,Yes,No,Normal,15,62,47,Protein Present,4.32,Yes
+Wolcott-Rallison Syndrome,Positive,Positive,No,Present,18,5,19,High,Unhealthy,105,120,33,223,Low Risk,High,Smoker,Low,Abnormal,No,No,Complications,4,26,11,Protein Present,1.835,No
+Prediabetic,Negative,Positive,Yes,Absent,11,54,27,Moderate,Healthy,113,234,37,123,High Risk,High,Smoker,Moderate,Normal,Yes,Yes,Normal,16,63,47,Glucose Present,3.988,No
+Secondary Diabetes,Negative,Negative,No,Present,38,57,25,Moderate,Unhealthy,126,240,45,226,Low Risk,Low,Smoker,Low,Abnormal,Yes,Yes,Complications,28,33,60,Normal,4.451,No
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,No,Present,24,31,27,High,Healthy,113,215,35,118,High Risk,Low,Non-Smoker,High,Normal,Yes,Yes,Complications,18,35,76,Protein Present,2.953,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,Yes,Present,41,69,27,High,Unhealthy,128,232,44,245,Low Risk,Medium,Smoker,Low,Normal,Yes,Yes,Normal,27,36,65,Protein Present,3.571,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,Yes,Present,26,28,32,Low,Healthy,106,174,31,168,High Risk,Low,Non-Smoker,High,Abnormal,Yes,Yes,Normal,15,33,54,Glucose Present,2.591,No
+LADA,Positive,Positive,No,Absent,27,43,20,Low,Unhealthy,115,237,42,156,High Risk,Low,Smoker,High,Normal,No,No,Normal,11,73,33,Ketones Present,3.378,No
+Type 2 Diabetes,Negative,Positive,Yes,Absent,13,71,37,High,Healthy,115,257,44,197,High Risk,Low,Non-Smoker,Moderate,Normal,No,Yes,Complications,23,90,41,Ketones Present,3.449,No
+Wolfram Syndrome,Negative,Positive,Yes,Absent,13,11,18,Low,Healthy,90,107,32,289,High Risk,Low,Smoker,Moderate,Normal,No,Yes,Complications,4,10,17,Protein Present,1.917,Yes
+Wolfram Syndrome,Negative,Negative,Yes,Absent,10,10,15,Low,Unhealthy,90,109,34,265,High Risk,High,Smoker,Low,Abnormal,Yes,No,Normal,1,32,23,Ketones Present,1.543,No
+Neonatal Diabetes Mellitus (NDM),Positive,Negative,Yes,Present,11,0,12,Moderate,Unhealthy,62,155,20,142,Low Risk,Medium,Non-Smoker,Low,Normal,Yes,Yes,Normal,9,36,21,Normal,2.594,No
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,No,Absent,9,1,17,High,Unhealthy,77,174,29,187,Low Risk,High,Smoker,Moderate,Normal,No,No,Complications,5,22,23,Normal,1.88,Yes
+Steroid-Induced Diabetes,Positive,Positive,Yes,Present,39,44,31,Moderate,Unhealthy,147,238,46,138,High Risk,Medium,Non-Smoker,Low,Abnormal,No,Yes,Complications,28,54,47,Normal,2.734,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Negative,Yes,Absent,37,40,30,Moderate,Healthy,129,240,35,243,High Risk,High,Smoker,High,Abnormal,Yes,No,Normal,29,76,42,Glucose Present,2.574,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Negative,No,Absent,18,11,26,High,Healthy,122,151,36,115,High Risk,Low,Non-Smoker,Low,Normal,No,No,Normal,23,44,66,Protein Present,2.711,Yes
+Prediabetic,Negative,Negative,Yes,Absent,20,45,27,High,Unhealthy,125,186,34,109,High Risk,Low,Smoker,High,Normal,No,No,Normal,17,60,76,Ketones Present,2.944,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Negative,Yes,Absent,47,55,33,High,Unhealthy,136,189,35,166,Low Risk,Low,Non-Smoker,High,Normal,No,No,Normal,28,31,44,Protein Present,4.156,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Positive,No,Present,36,52,25,Moderate,Unhealthy,125,264,48,217,Low Risk,Medium,Smoker,Moderate,Normal,No,Yes,Complications,24,78,50,Protein Present,4.102,No
+Type 1 Diabetes,Negative,Negative,No,Present,7,7,23,Low,Healthy,112,151,28,140,Low Risk,High,Smoker,Moderate,Abnormal,No,No,Normal,24,62,34,Glucose Present,2.802,Yes
+Gestational Diabetes,Negative,Negative,Yes,Absent,20,26,26,Low,Unhealthy,111,176,36,94,High Risk,High,Non-Smoker,Low,Normal,Yes,Yes,Complications,23,70,59,Normal,3.238,Yes
+Wolcott-Rallison Syndrome,Negative,Positive,No,Present,13,13,17,High,Unhealthy,83,176,33,160,Low Risk,Low,Smoker,Moderate,Normal,No,No,Complications,3,20,26,Normal,2.83,No
+Type 2 Diabetes,Negative,Positive,No,Present,31,39,36,Moderate,Healthy,146,294,46,134,Low Risk,Low,Non-Smoker,Low,Normal,No,No,Complications,33,70,85,Protein Present,3.919,No
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,Yes,Absent,11,0,19,Low,Unhealthy,66,168,29,134,Low Risk,High,Smoker,Low,Normal,No,No,Complications,4,39,22,Protein Present,1.523,Yes
+Gestational Diabetes,Negative,Positive,No,Absent,10,33,27,Moderate,Unhealthy,119,206,32,127,Low Risk,High,Smoker,Moderate,Normal,No,Yes,Normal,11,66,42,Ketones Present,4.062,Yes
+Secondary Diabetes,Positive,Negative,Yes,Present,38,56,32,Low,Healthy,130,268,36,179,High Risk,High,Non-Smoker,Low,Abnormal,Yes,No,Normal,32,97,69,Glucose Present,4.444,No
+Type 2 Diabetes,Positive,Negative,Yes,Present,46,68,37,High,Unhealthy,112,275,38,150,High Risk,Low,Smoker,Moderate,Abnormal,No,Yes,Complications,16,94,57,Normal,3.623,Yes
+Type 2 Diabetes,Negative,Negative,No,Absent,38,68,34,Moderate,Healthy,119,282,44,174,Low Risk,Low,Non-Smoker,High,Abnormal,Yes,No,Normal,23,37,56,Normal,3.45,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Positive,Yes,Absent,24,45,34,Moderate,Unhealthy,144,190,45,174,High Risk,High,Smoker,Low,Abnormal,No,No,Normal,24,54,31,Glucose Present,3.047,No
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,No,Absent,30,24,27,High,Unhealthy,118,216,36,142,High Risk,High,Smoker,High,Abnormal,Yes,No,Normal,12,54,55,Protein Present,3.523,Yes
+Prediabetic,Negative,Negative,No,Present,28,30,26,Low,Healthy,115,191,33,118,High Risk,Low,Smoker,High,Normal,Yes,Yes,Complications,24,68,63,Normal,3.557,Yes
+Type 2 Diabetes,Positive,Negative,Yes,Present,19,31,27,Low,Unhealthy,144,221,36,197,High Risk,Medium,Non-Smoker,High,Normal,No,No,Complications,28,40,54,Ketones Present,3.765,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Positive,No,Absent,38,65,27,Low,Unhealthy,144,241,37,237,High Risk,High,Non-Smoker,Low,Abnormal,No,No,Complications,15,71,64,Glucose Present,3.097,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Negative,Yes,Absent,20,41,26,Low,Unhealthy,129,276,44,153,High Risk,High,Smoker,Low,Normal,No,No,Complications,26,74,41,Protein Present,3.354,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Positive,Yes,Present,46,59,26,Low,Unhealthy,143,270,40,193,Low Risk,High,Non-Smoker,High,Abnormal,Yes,No,Normal,15,24,42,Protein Present,2.963,No
+Gestational Diabetes,Negative,Negative,Yes,Present,24,27,29,Moderate,Unhealthy,110,177,32,114,Low Risk,Low,Smoker,Moderate,Normal,Yes,No,Normal,18,30,55,Protein Present,2.619,Yes
+Secondary Diabetes,Negative,Positive,Yes,Absent,40,46,27,Moderate,Unhealthy,121,237,45,195,High Risk,Medium,Non-Smoker,Moderate,Abnormal,Yes,Yes,Complications,20,57,61,Ketones Present,3.036,Yes
+Gestational Diabetes,Negative,Positive,Yes,Present,17,32,20,High,Healthy,117,170,34,131,Low Risk,Medium,Smoker,Low,Normal,No,No,Complications,25,73,43,Glucose Present,3.38,Yes
+Type 2 Diabetes,Negative,Positive,Yes,Absent,11,32,30,Low,Unhealthy,124,293,47,138,Low Risk,Medium,Smoker,High,Abnormal,Yes,Yes,Normal,32,78,94,Ketones Present,3.087,No
+Type 1 Diabetes,Positive,Negative,Yes,Absent,13,11,20,Moderate,Healthy,91,181,30,145,Low Risk,Low,Smoker,Moderate,Normal,No,No,Complications,15,45,57,Glucose Present,3.909,No
+MODY,Negative,Negative,Yes,Present,12,21,24,High,Unhealthy,100,154,28,111,High Risk,Medium,Smoker,High,Normal,Yes,Yes,Normal,14,36,52,Protein Present,3.864,Yes
+LADA,Negative,Positive,No,Present,14,41,28,Moderate,Unhealthy,100,233,44,130,Low Risk,High,Smoker,Moderate,Abnormal,No,Yes,Complications,14,59,36,Normal,3.841,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Negative,Yes,Absent,11,1,18,High,Healthy,68,149,29,142,Low Risk,Medium,Non-Smoker,Low,Normal,Yes,No,Normal,9,35,10,Normal,1.692,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Negative,No,Absent,25,12,28,High,Unhealthy,111,191,35,127,High Risk,High,Non-Smoker,High,Abnormal,No,No,Normal,11,42,49,Ketones Present,3.819,Yes
+Wolfram Syndrome,Positive,Negative,Yes,Absent,14,18,21,High,Healthy,81,147,29,295,High Risk,Low,Non-Smoker,Low,Abnormal,No,No,Normal,2,14,27,Ketones Present,1.832,No
+Type 2 Diabetes,Positive,Positive,No,Present,22,31,30,Low,Healthy,114,283,34,189,Low Risk,Low,Smoker,High,Normal,Yes,Yes,Complications,36,98,99,Protein Present,3.332,Yes
+Neonatal Diabetes Mellitus (NDM),Negative,Positive,Yes,Absent,13,0,17,Moderate,Unhealthy,77,170,23,163,Low Risk,Low,Non-Smoker,Moderate,Abnormal,No,Yes,Normal,0,24,11,Glucose Present,2.071,Yes
+Type 2 Diabetes,Negative,Positive,No,Present,29,59,29,Moderate,Unhealthy,133,281,44,155,High Risk,High,Smoker,High,Normal,Yes,No,Normal,17,70,55,Ketones Present,3.117,Yes
+Wolcott-Rallison Syndrome,Negative,Positive,No,Absent,17,14,22,Low,Healthy,104,176,28,177,High Risk,Medium,Smoker,Low,Abnormal,Yes,Yes,Normal,4,25,10,Normal,2.83,Yes
+Steroid-Induced Diabetes,Negative,Negative,Yes,Present,15,63,24,High,Healthy,113,274,48,183,Low Risk,Medium,Smoker,High,Abnormal,Yes,Yes,Complications,23,22,51,Ketones Present,4.323,No
+Type 1 Diabetes,Negative,Positive,Yes,Absent,14,18,23,Low,Unhealthy,109,165,28,108,High Risk,Low,Non-Smoker,Moderate,Normal,No,No,Complications,17,41,30,Ketones Present,3.85,Yes
+Steroid-Induced Diabetes,Negative,Negative,No,Absent,41,51,33,Low,Unhealthy,128,254,44,209,Low Risk,High,Smoker,Low,Normal,No,Yes,Normal,15,28,33,Ketones Present,3.677,Yes
+Wolfram Syndrome,Negative,Positive,Yes,Absent,19,18,21,Low,Unhealthy,80,156,30,267,Low Risk,High,Smoker,High,Abnormal,Yes,No,Normal,3,34,23,Protein Present,1.94,No
+Gestational Diabetes,Positive,Positive,No,Present,12,24,29,Moderate,Unhealthy,119,203,40,118,High Risk,High,Non-Smoker,High,Abnormal,No,Yes,Normal,19,74,35,Protein Present,2.744,No
+Wolfram Syndrome,Positive,Negative,No,Present,15,10,15,Low,Unhealthy,98,162,27,228,High Risk,High,Smoker,Low,Normal,Yes,Yes,Normal,1,21,14,Glucose Present,2.141,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,No,Present,26,47,26,High,Unhealthy,147,249,47,190,High Risk,High,Non-Smoker,High,Abnormal,No,Yes,Complications,20,59,42,Ketones Present,3.444,Yes
+Prediabetic,Negative,Positive,Yes,Present,27,58,27,Moderate,Healthy,128,203,36,110,Low Risk,Low,Non-Smoker,Moderate,Normal,Yes,No,Complications,20,76,41,Normal,3.794,No
+Prediabetic,Positive,Negative,Yes,Absent,24,32,27,High,Unhealthy,124,235,38,113,High Risk,Medium,Non-Smoker,Moderate,Normal,Yes,Yes,Normal,10,55,55,Protein Present,2.72,No
+Wolcott-Rallison Syndrome,Positive,Positive,No,Present,9,12,22,High,Healthy,85,106,26,172,High Risk,Medium,Smoker,Low,Abnormal,No,Yes,Normal,0,35,23,Glucose Present,1.949,Yes
+Wolfram Syndrome,Negative,Positive,No,Present,11,15,16,Moderate,Healthy,96,136,32,216,Low Risk,High,Smoker,Moderate,Normal,Yes,Yes,Complications,4,23,11,Protein Present,1.991,Yes
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Negative,Yes,Present,23,46,26,High,Healthy,148,197,40,207,Low Risk,Low,Smoker,Moderate,Abnormal,No,Yes,Normal,21,46,66,Normal,3.729,No
+Type 1 Diabetes,Positive,Positive,Yes,Absent,8,14,21,Low,Unhealthy,109,155,31,120,High Risk,High,Non-Smoker,Low,Normal,No,Yes,Normal,15,70,37,Glucose Present,2.829,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,Yes,Absent,14,1,16,Low,Healthy,79,155,20,131,Low Risk,Low,Smoker,Low,Abnormal,No,Yes,Normal,1,11,22,Normal,2.365,No
+Neonatal Diabetes Mellitus (NDM),Positive,Negative,No,Present,5,0,16,Moderate,Unhealthy,65,168,28,120,Low Risk,Low,Smoker,Low,Normal,Yes,Yes,Normal,9,23,27,Protein Present,1.669,Yes
+Secondary Diabetes,Positive,Positive,Yes,Present,14,63,33,Low,Unhealthy,136,226,49,178,High Risk,Low,Non-Smoker,High,Normal,No,No,Complications,25,31,77,Ketones Present,3.013,No
+LADA,Positive,Negative,No,Absent,23,54,27,Low,Unhealthy,120,192,37,143,High Risk,Medium,Non-Smoker,Low,Normal,Yes,No,Complications,6,47,56,Ketones Present,2.511,Yes
+Prediabetic,Negative,Negative,No,Present,14,44,27,Moderate,Healthy,125,189,39,124,High Risk,Medium,Smoker,Low,Abnormal,No,Yes,Normal,27,57,62,Normal,2.9,No
+Steroid-Induced Diabetes,Negative,Negative,No,Present,47,45,27,High,Unhealthy,141,291,50,209,Low Risk,Low,Non-Smoker,Low,Normal,No,Yes,Normal,29,21,32,Glucose Present,2.776,No
+Wolfram Syndrome,Negative,Positive,No,Absent,11,10,23,Moderate,Unhealthy,109,122,30,275,Low Risk,Medium,Smoker,High,Normal,Yes,No,Normal,0,37,27,Normal,1.77,No
+Type 1 Diabetes,Negative,Positive,Yes,Present,18,18,23,Moderate,Unhealthy,98,173,30,143,High Risk,High,Non-Smoker,Low,Abnormal,Yes,No,Complications,14,55,54,Ketones Present,3.193,Yes
+Prediabetic,Positive,Negative,Yes,Absent,14,32,28,Moderate,Unhealthy,116,217,38,121,Low Risk,Medium,Non-Smoker,Moderate,Normal,No,No,Complications,14,49,47,Normal,2.801,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Positive,No,Absent,24,41,26,Low,Unhealthy,123,200,38,239,Low Risk,Low,Smoker,High,Abnormal,No,Yes,Normal,25,30,54,Glucose Present,4.161,No
+LADA,Negative,Positive,No,Present,13,35,32,Low,Unhealthy,107,172,43,108,High Risk,High,Non-Smoker,Moderate,Abnormal,No,No,Complications,15,56,33,Ketones Present,3.255,No
+Type 2 Diabetes,Positive,Negative,No,Absent,23,43,38,High,Healthy,119,287,41,196,Low Risk,Low,Smoker,Moderate,Abnormal,No,No,Normal,21,72,88,Glucose Present,4.423,Yes
+Secondary Diabetes,Negative,Negative,Yes,Present,44,71,34,Moderate,Healthy,146,293,47,205,High Risk,Medium,Smoker,Low,Normal,Yes,Yes,Complications,29,64,70,Glucose Present,2.935,Yes
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,Yes,Absent,5,1,14,High,Unhealthy,67,129,29,147,High Risk,Medium,Non-Smoker,High,Abnormal,Yes,No,Normal,7,26,26,Normal,1.681,Yes
+Type 1 Diabetes,Positive,Positive,Yes,Present,16,26,24,High,Healthy,104,161,29,143,High Risk,High,Non-Smoker,Moderate,Normal,No,No,Complications,21,46,58,Ketones Present,2.964,No
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,No,Absent,30,33,33,Moderate,Unhealthy,90,169,29,176,High Risk,Medium,Smoker,Moderate,Abnormal,No,No,Normal,21,56,76,Glucose Present,3.637,No
+Secondary Diabetes,Positive,Positive,No,Present,13,63,25,High,Healthy,135,180,46,192,Low Risk,High,Non-Smoker,Moderate,Normal,No,No,Complications,24,34,70,Ketones Present,3.581,Yes
+Secondary Diabetes,Negative,Positive,No,Absent,34,50,27,Moderate,Unhealthy,132,200,40,214,High Risk,Medium,Smoker,High,Abnormal,No,No,Complications,37,42,78,Protein Present,2.626,No
+Secondary Diabetes,Negative,Positive,No,Present,28,43,32,Moderate,Unhealthy,139,293,45,239,Low Risk,Medium,Non-Smoker,High,Normal,No,Yes,Normal,36,58,58,Protein Present,4.367,No
+Gestational Diabetes,Positive,Positive,No,Absent,10,33,28,High,Unhealthy,126,166,36,99,High Risk,Medium,Non-Smoker,High,Normal,No,Yes,Normal,11,60,50,Normal,2.812,No
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Positive,Yes,Absent,17,34,19,Moderate,Healthy,110,151,37,140,Low Risk,Low,Smoker,High,Normal,No,Yes,Complications,11,59,62,Glucose Present,3.207,No
+Neonatal Diabetes Mellitus (NDM),Positive,Negative,No,Present,14,0,12,Low,Healthy,60,151,20,159,Low Risk,High,Smoker,High,Abnormal,Yes,Yes,Complications,0,19,12,Protein Present,2.659,No
+Wolcott-Rallison Syndrome,Positive,Positive,No,Present,16,12,15,High,Unhealthy,89,174,27,155,Low Risk,High,Non-Smoker,Low,Abnormal,No,No,Complications,2,31,12,Glucose Present,2.565,No
+MODY,Positive,Positive,No,Absent,19,12,19,Moderate,Unhealthy,109,186,33,119,Low Risk,High,Smoker,High,Normal,Yes,No,Complications,8,61,34,Normal,2.995,No
+Type 1 Diabetes,Negative,Positive,No,Absent,17,24,24,Low,Healthy,108,193,30,115,High Risk,High,Non-Smoker,Low,Abnormal,No,No,Complications,21,77,50,Glucose Present,2.913,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Negative,Yes,Absent,27,63,33,Low,Healthy,122,195,40,248,High Risk,High,Smoker,Moderate,Abnormal,Yes,Yes,Normal,24,36,68,Normal,4.218,Yes
+Type 1 Diabetes,Positive,Positive,Yes,Absent,19,23,23,Low,Unhealthy,99,159,28,112,High Risk,Low,Non-Smoker,Moderate,Normal,No,Yes,Complications,24,47,32,Protein Present,3.385,Yes
+Wolfram Syndrome,Positive,Negative,No,Absent,17,18,23,Low,Unhealthy,95,112,32,293,High Risk,Low,Non-Smoker,Low,Abnormal,Yes,Yes,Normal,3,27,21,Ketones Present,1.779,Yes
+Steroid-Induced Diabetes,Negative,Positive,No,Present,18,42,26,High,Unhealthy,121,238,37,136,Low Risk,Medium,Non-Smoker,Low,Normal,Yes,No,Normal,19,49,48,Normal,3.459,No
+Steroid-Induced Diabetes,Negative,Positive,Yes,Present,35,67,21,High,Healthy,144,271,35,248,Low Risk,High,Non-Smoker,Moderate,Abnormal,Yes,Yes,Complications,24,37,34,Ketones Present,3.306,No
+Secondary Diabetes,Positive,Negative,Yes,Present,27,44,25,High,Unhealthy,145,188,45,194,High Risk,High,Non-Smoker,High,Abnormal,No,Yes,Complications,38,72,57,Ketones Present,4.263,No
+Secondary Diabetes,Negative,Negative,Yes,Absent,36,65,30,Moderate,Unhealthy,135,215,43,195,High Risk,Medium,Non-Smoker,Moderate,Abnormal,Yes,Yes,Normal,38,23,65,Normal,4.415,Yes
+LADA,Negative,Positive,Yes,Present,22,44,34,Low,Healthy,118,206,42,151,High Risk,Medium,Non-Smoker,Moderate,Normal,No,Yes,Complications,15,78,50,Ketones Present,2.545,No
+Steroid-Induced Diabetes,Positive,Negative,Yes,Absent,45,61,35,Low,Healthy,130,290,42,194,High Risk,High,Smoker,Low,Abnormal,Yes,No,Normal,29,29,64,Ketones Present,4.353,No
+Neonatal Diabetes Mellitus (NDM),Positive,Positive,No,Absent,8,1,18,Moderate,Unhealthy,76,179,26,147,Low Risk,High,Non-Smoker,Low,Normal,Yes,No,Normal,0,26,12,Ketones Present,1.511,Yes
+Prediabetic,Negative,Positive,Yes,Absent,28,49,24,High,Unhealthy,128,214,38,103,Low Risk,Low,Non-Smoker,Moderate,Abnormal,Yes,No,Normal,11,50,72,Ketones Present,3.824,No
+LADA,Positive,Negative,Yes,Present,29,48,33,Low,Unhealthy,117,228,32,159,Low Risk,High,Non-Smoker,High,Normal,No,Yes,Complications,12,48,40,Glucose Present,3.919,No
+Wolcott-Rallison Syndrome,Negative,Negative,Yes,Absent,19,10,16,Moderate,Unhealthy,81,141,26,240,High Risk,High,Non-Smoker,Moderate,Abnormal,Yes,No,Complications,4,22,29,Normal,2.257,Yes
+Wolfram Syndrome,Negative,Negative,Yes,Present,17,8,24,Low,Unhealthy,93,128,32,237,Low Risk,High,Non-Smoker,Moderate,Normal,No,No,Complications,0,26,11,Protein Present,2.482,Yes
+Wolfram Syndrome,Negative,Positive,Yes,Present,17,13,21,High,Healthy,98,163,34,221,High Risk,Low,Smoker,Moderate,Normal,No,Yes,Normal,0,14,21,Ketones Present,2.324,No
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Positive,Yes,Absent,17,31,24,High,Unhealthy,108,168,34,117,Low Risk,High,Smoker,Moderate,Normal,Yes,Yes,Complications,16,53,63,Ketones Present,3.179,Yes
+Gestational Diabetes,Positive,Positive,Yes,Present,27,30,23,Low,Healthy,113,223,33,119,High Risk,Medium,Non-Smoker,Low,Abnormal,No,No,Complications,27,34,55,Protein Present,4.432,No
+Wolfram Syndrome,Positive,Negative,Yes,Absent,13,11,21,High,Healthy,106,130,33,275,Low Risk,Medium,Non-Smoker,Low,Abnormal,No,No,Normal,2,26,11,Normal,2.399,No
+Wolcott-Rallison Syndrome,Positive,Positive,Yes,Present,18,9,21,High,Healthy,91,134,33,220,High Risk,High,Smoker,Moderate,Normal,Yes,No,Normal,3,35,25,Glucose Present,1.935,Yes
+LADA,Positive,Positive,No,Absent,27,35,27,High,Healthy,110,212,37,138,Low Risk,High,Smoker,Moderate,Abnormal,Yes,No,Complications,7,58,55,Protein Present,3.404,Yes
+LADA,Negative,Positive,Yes,Absent,31,32,32,Moderate,Healthy,117,179,34,105,Low Risk,Low,Non-Smoker,High,Abnormal,Yes,No,Complications,7,44,44,Normal,2.737,No
+Wolfram Syndrome,Negative,Negative,Yes,Present,15,5,17,High,Unhealthy,90,118,29,285,High Risk,High,Smoker,Moderate,Abnormal,No,Yes,Normal,1,11,29,Protein Present,2.069,No
+LADA,Negative,Negative,No,Absent,38,58,30,Moderate,Healthy,108,201,41,117,Low Risk,Low,Smoker,High,Abnormal,Yes,No,Complications,11,77,37,Glucose Present,3.283,Yes
+Wolfram Syndrome,Negative,Negative,Yes,Present,10,18,24,Low,Healthy,80,103,25,232,High Risk,Low,Smoker,High,Normal,No,Yes,Normal,3,15,10,Protein Present,1.937,Yes
+MODY,Negative,Positive,Yes,Absent,13,14,20,Low,Unhealthy,92,189,28,93,Low Risk,Low,Non-Smoker,High,Abnormal,No,No,Normal,16,71,51,Normal,3.617,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Positive,Positive,No,Absent,36,64,29,High,Healthy,140,217,45,200,High Risk,High,Smoker,Low,Abnormal,No,Yes,Normal,21,21,40,Glucose Present,3.363,No
+Prediabetic,Negative,Positive,No,Present,23,48,25,High,Unhealthy,127,228,37,106,High Risk,Medium,Non-Smoker,Low,Normal,Yes,No,Normal,24,36,63,Normal,2.92,Yes
+Type 2 Diabetes,Negative,Positive,Yes,Present,26,61,33,Low,Unhealthy,148,289,43,171,High Risk,Medium,Non-Smoker,Moderate,Normal,Yes,Yes,Complications,23,39,58,Ketones Present,3.446,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,No,Present,19,12,24,High,Healthy,128,190,33,169,High Risk,Medium,Non-Smoker,High,Abnormal,Yes,Yes,Normal,15,41,53,Protein Present,3.503,Yes
+Wolcott-Rallison Syndrome,Negative,Positive,Yes,Absent,8,10,23,Low,Unhealthy,97,127,33,249,Low Risk,Medium,Non-Smoker,Low,Abnormal,Yes,Yes,Complications,0,30,10,Protein Present,2.019,No
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,No,Absent,26,33,22,High,Healthy,101,197,31,108,Low Risk,High,Smoker,High,Normal,Yes,Yes,Normal,13,37,77,Ketones Present,3.313,Yes
+MODY,Negative,Negative,No,Absent,20,17,29,High,Healthy,107,177,33,135,Low Risk,Medium,Smoker,Low,Abnormal,No,Yes,Complications,9,61,54,Normal,3.23,No
+Secondary Diabetes,Negative,Negative,No,Absent,24,47,30,High,Healthy,147,283,35,151,Low Risk,Medium,Smoker,High,Normal,No,No,Normal,37,53,61,Ketones Present,4.426,No
+Cystic Fibrosis-Related Diabetes (CFRD),Positive,Positive,Yes,Absent,19,17,26,Low,Healthy,109,205,36,138,Low Risk,Medium,Smoker,Moderate,Normal,No,No,Complications,20,66,65,Protein Present,2.649,Yes
+Gestational Diabetes,Negative,Positive,Yes,Absent,15,36,23,Low,Healthy,103,165,36,139,Low Risk,High,Non-Smoker,High,Abnormal,No,Yes,Normal,14,43,70,Protein Present,4.295,No
+Type 2 Diabetes,Negative,Positive,No,Present,26,63,37,High,Healthy,117,207,41,132,High Risk,High,Non-Smoker,Low,Normal,Yes,No,Complications,31,51,41,Ketones Present,4.039,Yes
+MODY,Positive,Positive,No,Absent,22,21,25,High,Healthy,91,169,29,87,Low Risk,Low,Smoker,Moderate,Normal,Yes,No,Complications,12,74,63,Glucose Present,3.238,No
+Type 3c Diabetes (Pancreatogenic Diabetes),Negative,Negative,No,Present,41,43,29,Moderate,Healthy,132,216,37,227,High Risk,Medium,Smoker,High,Normal,No,Yes,Normal,22,26,32,Protein Present,4.165,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Positive,Yes,Absent,19,21,26,High,Unhealthy,117,181,35,104,High Risk,High,Non-Smoker,Low,Normal,No,Yes,Normal,19,36,70,Protein Present,3.071,No
+Type 1 Diabetes,Positive,Positive,Yes,Present,19,11,16,Moderate,Healthy,105,187,33,118,Low Risk,Medium,Smoker,High,Normal,Yes,No,Normal,22,67,62,Normal,2.585,Yes
+Secondary Diabetes,Negative,Negative,No,Absent,31,48,22,High,Healthy,141,294,40,232,High Risk,High,Non-Smoker,Moderate,Normal,Yes,No,Complications,21,55,48,Glucose Present,3.023,Yes
+Type 2 Diabetes,Positive,Positive,Yes,Absent,12,41,36,High,Unhealthy,146,233,48,162,High Risk,Low,Smoker,Moderate,Normal,Yes,Yes,Complications,31,85,88,Protein Present,3.202,Yes
+Cystic Fibrosis-Related Diabetes (CFRD),Negative,Negative,No,Absent,17,15,25,Moderate,Healthy,108,169,32,138,High Risk,High,Smoker,Moderate,Normal,No,No,Complications,22,40,36,Protein Present,3.111,No
+Wolcott-Rallison Syndrome,Positive,Positive,Yes,Absent,9,14,15,High,Unhealthy,85,114,33,151,High Risk,Low,Non-Smoker,Moderate,Abnormal,Yes,Yes,Complications,1,25,23,Glucose Present,1.879,No
